@@ -1,0 +1,694 @@
+[{
+  "_id": {
+    "$oid": "61c451b9dc7c55bc07510b88"
+  },
+  "areaCode": "01010102",
+  "populationData": [],
+  "employmentAndUnemploymentData": [],
+  "ReligionData": [],
+  "RangeAgeAndGenderData": [],
+  "educationalData": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c451b9dc7c55bc07510b89"
+  },
+  "areaCode": "01010104",
+  "populationData": [],
+  "employmentAndUnemploymentData": [],
+  "ReligionData": [],
+  "RangeAgeAndGenderData": [],
+  "educationalData": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c451b9dc7c55bc07510b8a"
+  },
+  "areaCode": "01010103",
+  "populationData": [],
+  "employmentAndUnemploymentData": [],
+  "ReligionData": [],
+  "RangeAgeAndGenderData": [],
+  "educationalData": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c451b9dc7c55bc07510b8b"
+  },
+  "areaCode": "01010105",
+  "populationData": [],
+  "employmentAndUnemploymentData": [],
+  "ReligionData": [],
+  "RangeAgeAndGenderData": [],
+  "educationalData": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c451b9dc7c55bc07510b8c"
+  },
+  "areaCode": "01010101",
+  "populationData": [],
+  "employmentAndUnemploymentData": [],
+  "ReligionData": [],
+  "RangeAgeAndGenderData": [],
+  "educationalData": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c451b9dc7c55bc07510b8d"
+  },
+  "areaCode": "01010203",
+  "populationData": [
+    {
+      "gender": "female",
+      "count": 1
+    },
+    {
+      "gender": "male",
+      "count": 1
+    }
+  ],
+  "employmentAndUnemploymentData": [
+    {
+      "unemployment": true,
+      "count": 1
+    },
+    {
+      "unemployment": false,
+      "count": 1
+    }
+  ],
+  "ReligionData": [
+    {
+      "religion": "Phật giáo",
+      "count": 1
+    },
+    {
+      "religion": "Minh Sư Đạo",
+      "count": 1
+    }
+  ],
+  "RangeAgeAndGenderData": [
+    {
+      "gender": "female",
+      "rangeAge": "20-29",
+      "count": 1
+    },
+    {
+      "gender": "male",
+      "rangeAge": "30-39",
+      "count": 1
+    }
+  ],
+  "educationalData": [
+    {
+      "educationalLevel": "CAO ĐẲNG",
+      "count": 1
+    },
+    {
+      "educationalLevel": "TRUNG CẤP",
+      "count": 1
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c451b9dc7c55bc07510b8e"
+  },
+  "areaCode": "01010201",
+  "populationData": [
+    {
+      "gender": "male",
+      "count": 1
+    },
+    {
+      "gender": "female",
+      "count": 1
+    }
+  ],
+  "employmentAndUnemploymentData": [
+    {
+      "unemployment": false,
+      "count": 2
+    }
+  ],
+  "ReligionData": [
+    {
+      "religion": "Tứ Ân Hiếu Nghĩa",
+      "count": 1
+    },
+    {
+      "religion": "Cơ đốc Phục lâm",
+      "count": 1
+    }
+  ],
+  "RangeAgeAndGenderData": [
+    {
+      "gender": "female",
+      "rangeAge": "40-49",
+      "count": 1
+    },
+    {
+      "gender": "male",
+      "rangeAge": "30-39",
+      "count": 1
+    }
+  ],
+  "educationalData": [
+    {
+      "educationalLevel": "CAO ĐẲNG",
+      "count": 2
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c451b9dc7c55bc07510b8f"
+  },
+  "areaCode": "01010204",
+  "populationData": [],
+  "employmentAndUnemploymentData": [],
+  "ReligionData": [],
+  "RangeAgeAndGenderData": [],
+  "educationalData": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c451b9dc7c55bc07510b90"
+  },
+  "areaCode": "01010202",
+  "populationData": [
+    {
+      "gender": "female",
+      "count": 1
+    }
+  ],
+  "employmentAndUnemploymentData": [
+    {
+      "unemployment": false,
+      "count": 1
+    }
+  ],
+  "ReligionData": [
+    {
+      "religion": "Tịnh độ cư sĩ Phật hội Việt Nam",
+      "count": 1
+    }
+  ],
+  "RangeAgeAndGenderData": [
+    {
+      "gender": "female",
+      "rangeAge": "40-49",
+      "count": 1
+    }
+  ],
+  "educationalData": [
+    {
+      "educationalLevel": "THẠC SĨ",
+      "count": 1
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c451b9dc7c55bc07510b91"
+  },
+  "areaCode": "01010205",
+  "populationData": [],
+  "employmentAndUnemploymentData": [],
+  "ReligionData": [],
+  "RangeAgeAndGenderData": [],
+  "educationalData": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c451b9dc7c55bc07510b92"
+  },
+  "areaCode": "01010106",
+  "populationData": [],
+  "employmentAndUnemploymentData": [],
+  "ReligionData": [],
+  "RangeAgeAndGenderData": [],
+  "educationalData": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c451b9dc7c55bc07510b93"
+  },
+  "areaCode": "01010301",
+  "populationData": [
+    {
+      "gender": "female",
+      "count": 2
+    },
+    {
+      "gender": "male",
+      "count": 1
+    }
+  ],
+  "employmentAndUnemploymentData": [
+    {
+      "unemployment": false,
+      "count": 3
+    }
+  ],
+  "ReligionData": [
+    {
+      "religion": "Cơ đốc Phục lâm",
+      "count": 1
+    },
+    {
+      "religion": "Công giáo",
+      "count": 1
+    },
+    {
+      "religion": "Minh Lý Đạo",
+      "count": 1
+    }
+  ],
+  "RangeAgeAndGenderData": [
+    {
+      "gender": "female",
+      "rangeAge": "20-29",
+      "count": 2
+    },
+    {
+      "gender": "male",
+      "rangeAge": "20-29",
+      "count": 1
+    }
+  ],
+  "educationalData": [
+    {
+      "educationalLevel": "TRUNG CẤP",
+      "count": 1
+    },
+    {
+      "educationalLevel": "TRUNG HỌC PHỔ THÔNG",
+      "count": 1
+    },
+    {
+      "educationalLevel": "ĐẠI HỌC",
+      "count": 1
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c451b9dc7c55bc07510b94"
+  },
+  "areaCode": "01010302",
+  "populationData": [],
+  "employmentAndUnemploymentData": [],
+  "ReligionData": [],
+  "RangeAgeAndGenderData": [],
+  "educationalData": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c451b9dc7c55bc07510b95"
+  },
+  "areaCode": "01010303",
+  "populationData": [],
+  "employmentAndUnemploymentData": [],
+  "ReligionData": [],
+  "RangeAgeAndGenderData": [],
+  "educationalData": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c451b9dc7c55bc07510b96"
+  },
+  "areaCode": "02010101",
+  "populationData": [
+    {
+      "gender": "male",
+      "count": 2
+    },
+    {
+      "gender": "female",
+      "count": 1
+    }
+  ],
+  "employmentAndUnemploymentData": [
+    {
+      "unemployment": false,
+      "count": 3
+    }
+  ],
+  "ReligionData": [
+    {
+      "religion": "Tin Lành",
+      "count": 1
+    },
+    {
+      "religion": "Cơ đốc Phục lâm",
+      "count": 1
+    },
+    {
+      "religion": "Tứ Ân Hiếu Nghĩa",
+      "count": 1
+    }
+  ],
+  "RangeAgeAndGenderData": [
+    {
+      "gender": "female",
+      "rangeAge": "40-49",
+      "count": 1
+    },
+    {
+      "gender": "male",
+      "rangeAge": "40-49",
+      "count": 1
+    },
+    {
+      "gender": "male",
+      "rangeAge": "0-9",
+      "count": 1
+    }
+  ],
+  "educationalData": [
+    {
+      "educationalLevel": "TRUNG CẤP",
+      "count": 1
+    },
+    {
+      "educationalLevel": "TRUNG HỌC CƠ SỞ",
+      "count": 1
+    },
+    {
+      "educationalLevel": "CAO ĐẲNG",
+      "count": 1
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c52a37aab4b7341310e561"
+  },
+  "areaCode": "01010209",
+  "populationData": [],
+  "employmentAndUnemploymentData": [],
+  "ReligionData": [],
+  "RangeAgeAndGenderData": [],
+  "educationalData": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c838024fa820ea35a26fc5"
+  },
+  "areaCode": "01010213",
+  "populationData": [],
+  "employmentAndUnemploymentData": [],
+  "ReligionData": [],
+  "RangeAgeAndGenderData": [],
+  "educationalData": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c838024fa820ea35a26fc7"
+  },
+  "areaCode": "01010220",
+  "populationData": [],
+  "employmentAndUnemploymentData": [],
+  "ReligionData": [],
+  "RangeAgeAndGenderData": [],
+  "educationalData": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c838024fa820ea35a26fc9"
+  },
+  "areaCode": "01010221",
+  "populationData": [],
+  "employmentAndUnemploymentData": [],
+  "ReligionData": [],
+  "RangeAgeAndGenderData": [],
+  "educationalData": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c838024fa820ea35a26fcb"
+  },
+  "areaCode": "01010224",
+  "populationData": [],
+  "employmentAndUnemploymentData": [],
+  "ReligionData": [],
+  "RangeAgeAndGenderData": [],
+  "educationalData": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c838024fa820ea35a26fcd"
+  },
+  "areaCode": "01010235",
+  "populationData": [],
+  "employmentAndUnemploymentData": [],
+  "ReligionData": [],
+  "RangeAgeAndGenderData": [],
+  "educationalData": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c838024fa820ea35a26fcf"
+  },
+  "areaCode": "01010206",
+  "populationData": [],
+  "employmentAndUnemploymentData": [],
+  "ReligionData": [],
+  "RangeAgeAndGenderData": [],
+  "educationalData": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c838024fa820ea35a26fd1"
+  },
+  "areaCode": "01010210",
+  "populationData": [],
+  "employmentAndUnemploymentData": [],
+  "ReligionData": [],
+  "RangeAgeAndGenderData": [],
+  "educationalData": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c838024fa820ea35a26fd3"
+  },
+  "areaCode": "01010211",
+  "populationData": [],
+  "employmentAndUnemploymentData": [],
+  "ReligionData": [],
+  "RangeAgeAndGenderData": [],
+  "educationalData": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c838024fa820ea35a26fd5"
+  },
+  "areaCode": "01010207",
+  "populationData": [],
+  "employmentAndUnemploymentData": [],
+  "ReligionData": [],
+  "RangeAgeAndGenderData": [],
+  "educationalData": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c838024fa820ea35a26fd7"
+  },
+  "areaCode": "01010208",
+  "populationData": [],
+  "employmentAndUnemploymentData": [],
+  "ReligionData": [],
+  "RangeAgeAndGenderData": [],
+  "educationalData": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c838024fa820ea35a26fd9"
+  },
+  "areaCode": "24030801",
+  "populationData": [],
+  "employmentAndUnemploymentData": [],
+  "ReligionData": [],
+  "RangeAgeAndGenderData": [],
+  "educationalData": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c838024fa820ea35a26fdb"
+  },
+  "areaCode": "24030802",
+  "populationData": [],
+  "employmentAndUnemploymentData": [],
+  "ReligionData": [],
+  "RangeAgeAndGenderData": [],
+  "educationalData": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c838024fa820ea35a26fdd"
+  },
+  "areaCode": "24030803",
+  "populationData": [],
+  "employmentAndUnemploymentData": [],
+  "ReligionData": [],
+  "RangeAgeAndGenderData": [],
+  "educationalData": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c838024fa820ea35a26fdf"
+  },
+  "areaCode": "24030701",
+  "populationData": [],
+  "employmentAndUnemploymentData": [],
+  "ReligionData": [],
+  "RangeAgeAndGenderData": [],
+  "educationalData": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c838024fa820ea35a26fe1"
+  },
+  "areaCode": "24030702",
+  "populationData": [],
+  "employmentAndUnemploymentData": [],
+  "ReligionData": [],
+  "RangeAgeAndGenderData": [],
+  "educationalData": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c838024fa820ea35a26fe3"
+  },
+  "areaCode": "24030703",
+  "populationData": [],
+  "employmentAndUnemploymentData": [],
+  "ReligionData": [],
+  "RangeAgeAndGenderData": [],
+  "educationalData": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c838024fa820ea35a26fe5"
+  },
+  "areaCode": "24030704",
+  "populationData": [
+    {
+      "gender": "female",
+      "count": 2
+    },
+    {
+      "gender": "male",
+      "count": 1
+    }
+  ],
+  "employmentAndUnemploymentData": [
+    {
+      "unemployment": false,
+      "count": 2
+    },
+    {
+      "unemployment": true,
+      "count": 1
+    }
+  ],
+  "ReligionData": [
+    {
+      "religion": "Thiên chúa giáo",
+      "count": 1
+    },
+    {
+      "religion": "",
+      "count": 2
+    }
+  ],
+  "RangeAgeAndGenderData": [
+    {
+      "gender": "female",
+      "rangeAge": "0-9",
+      "count": 1
+    },
+    {
+      "gender": "female",
+      "rangeAge": "40-49",
+      "count": 1
+    },
+    {
+      "gender": "male",
+      "rangeAge": "40-49",
+      "count": 1
+    }
+  ],
+  "educationalData": [
+    {
+      "educationalLevel": "DƯỚI TIỂU HỌC",
+      "count": 1
+    },
+    {
+      "educationalLevel": "ĐẠI HỌC",
+      "count": 2
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c838024fa820ea35a26fe7"
+  },
+  "areaCode": "24030705",
+  "populationData": [
+    {
+      "gender": "male",
+      "count": 1
+    },
+    {
+      "gender": "female",
+      "count": 2
+    }
+  ],
+  "employmentAndUnemploymentData": [
+    {
+      "unemployment": true,
+      "count": 2
+    },
+    {
+      "unemployment": false,
+      "count": 1
+    }
+  ],
+  "ReligionData": [
+    {
+      "religion": "Thiên chúa giáo",
+      "count": 3
+    }
+  ],
+  "RangeAgeAndGenderData": [
+    {
+      "gender": "male",
+      "rangeAge": "10-19",
+      "count": 1
+    },
+    {
+      "gender": "female",
+      "rangeAge": "30-39",
+      "count": 1
+    },
+    {
+      "gender": "female",
+      "rangeAge": "0-9",
+      "count": 1
+    }
+  ],
+  "educationalData": [
+    {
+      "educationalLevel": "DƯỚI TIỂU HỌC",
+      "count": 2
+    },
+    {
+      "educationalLevel": "ĐẠI HỌC",
+      "count": 1
+    }
+  ],
+  "__v": 0
+}]

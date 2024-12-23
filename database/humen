@@ -1,0 +1,409 @@
+[{
+  "_id": {
+    "$oid": "61bca85bc6bdcd1703b49aff"
+  },
+  "name": "Nguyen Thi F",
+  "idFamilyRef": {
+    "$oid": "61bca7220bebacf7c2b8b2e0"
+  },
+  "cardId": "1234567895845",
+  "birth": {
+    "$date": "1998-10-11T13:40:32.422Z"
+  },
+  "job": "Kinh doanh",
+  "religion": "Cơ đốc Phục lâm",
+  "idTemporaryResidenceAddressRef": {
+    "$oid": "61bca693f341f9fa8ac2abb3"
+  },
+  "idPermanentAddressRef": {
+    "$oid": "61bc3c9cbfd8f603a4f8eb2a"
+  },
+  "gender": "male",
+  "hometown": "abcder",
+  "educationalLevel": "TRUNG CẤP",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bcaa27c6bdcd1703b49b27"
+  },
+  "name": "Nguyen Thi G",
+  "idFamilyRef": {
+    "$oid": "61bca9f6c6bdcd1703b49b21"
+  },
+  "cardId": "1234567895985",
+  "birth": {
+    "$date": "1998-10-11T13:40:32.422Z"
+  },
+  "job": "công nhân",
+  "religion": "Công giáo",
+  "idTemporaryResidenceAddressRef": {
+    "$oid": "61bca693f341f9fa8ac2abb3"
+  },
+  "idPermanentAddressRef": {
+    "$oid": "61bc3c9cbfd8f603a4f8eb2a"
+  },
+  "gender": "female",
+  "hometown": "abcder",
+  "educationalLevel": "TRUNG HỌC PHỔ THÔNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bcaa97c6bdcd1703b49b2e"
+  },
+  "name": "Nguyen Thi G",
+  "idFamilyRef": {
+    "$oid": "61bca9f6c6bdcd1703b49b21"
+  },
+  "cardId": "1234567895985",
+  "birth": {
+    "$date": "1998-10-11T13:40:32.422Z"
+  },
+  "job": "Giáo viên",
+  "religion": "Minh Lý Đạo",
+  "idTemporaryResidenceAddressRef": {
+    "$oid": "61bca693f341f9fa8ac2abb3"
+  },
+  "idPermanentAddressRef": {
+    "$oid": "61bc3c9cbfd8f603a4f8eb2a"
+  },
+  "gender": "female",
+  "hometown": "abcder",
+  "educationalLevel": "ĐẠI HỌC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bf2cdf35d2c212dcfac74d"
+  },
+  "name": "Nguyen Thi G",
+  "idFamilyRef": {
+    "$oid": "61bf2ca935d2c212dcfac747"
+  },
+  "cardId": "1234567895985",
+  "birth": {
+    "$date": "1998-10-11T13:40:32.422Z"
+  },
+  "job": "",
+  "religion": "Minh Sư Đạo",
+  "idTemporaryResidenceAddressRef": {
+    "$oid": "61bc3c9cbfd8f603a4f8eb2f"
+  },
+  "idPermanentAddressRef": {
+    "$oid": "61bc3c9cbfd8f603a4f8eb2a"
+  },
+  "gender": "female",
+  "hometown": "abcder",
+  "educationalLevel": "TRUNG CẤP",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bf2d4b35d2c212dcfac754"
+  },
+  "name": "Hoang Van B",
+  "idFamilyRef": {
+    "$oid": "61bf2ca935d2c212dcfac747"
+  },
+  "cardId": "1234567895984",
+  "birth": {
+    "$date": "1988-10-11T13:40:32.422Z"
+  },
+  "job": "Kinh doanh",
+  "religion": "Phật giáo",
+  "idTemporaryResidenceAddressRef": {
+    "$oid": "61bc3c9cbfd8f603a4f8eb2f"
+  },
+  "idPermanentAddressRef": {
+    "$oid": "61bc3c9cbfd8f603a4f8eb2a"
+  },
+  "gender": "male",
+  "hometown": "abcder",
+  "educationalLevel": "CAO ĐẲNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bf2dc935d2c212dcfac76c"
+  },
+  "name": "Hoang Van P",
+  "idFamilyRef": {
+    "$oid": "61bf2da735d2c212dcfac760"
+  },
+  "cardId": "1234567895984",
+  "birth": {
+    "$date": "1988-10-11T13:40:32.422Z"
+  },
+  "job": "Kinh doanh",
+  "religion": "Tứ Ân Hiếu Nghĩa",
+  "idTemporaryResidenceAddressRef": {
+    "$oid": "61bc3c9cbfd8f603a4f8eb30"
+  },
+  "idPermanentAddressRef": {
+    "$oid": "61bc3c9cbfd8f603a4f8eb2a"
+  },
+  "gender": "male",
+  "hometown": "abcder",
+  "educationalLevel": "CAO ĐẲNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bf2dfef03dbcfce85eda10"
+  },
+  "name": "Tran Thi E",
+  "idFamilyRef": {
+    "$oid": "61bf2da735d2c212dcfac760"
+  },
+  "cardId": "123456789598485",
+  "birth": {
+    "$date": "1972-10-11T13:40:32.422Z"
+  },
+  "job": "Nội trợ",
+  "religion": "Cơ đốc Phục lâm",
+  "idTemporaryResidenceAddressRef": {
+    "$oid": "61bc3c9cbfd8f603a4f8eb30"
+  },
+  "idPermanentAddressRef": {
+    "$oid": "61bc3c9cbfd8f603a4f8eb2a"
+  },
+  "gender": "female",
+  "hometown": "abcder",
+  "educationalLevel": "CAO ĐẲNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bf2e80f03dbcfce85eda1c"
+  },
+  "name": "Tran Thi G",
+  "idFamilyRef": {
+    "$oid": "61bf2e22f03dbcfce85eda16"
+  },
+  "cardId": "123456789598485",
+  "birth": {
+    "$date": "1975-10-11T13:40:32.422Z"
+  },
+  "job": "Giáo viên",
+  "religion": "Tịnh độ cư sĩ Phật hội Việt Nam",
+  "idTemporaryResidenceAddressRef": {
+    "$oid": "61bc3c9cbfd8f603a4f8eb32"
+  },
+  "idPermanentAddressRef": {
+    "$oid": "61bc3c9cbfd8f603a4f8eb2d"
+  },
+  "gender": "female",
+  "hometown": "abcder",
+  "educationalLevel": "THẠC SĨ",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bf4711e548e826cb827d7c"
+  },
+  "name": "Tran Thi G",
+  "idFamilyRef": {
+    "$oid": "61bf46ece548e826cb827d73"
+  },
+  "cardId": "123456789598485",
+  "birth": {
+    "$date": "1975-10-11T13:40:32.422Z"
+  },
+  "job": "Giáo viên",
+  "religion": "Cơ đốc Phục lâm",
+  "idTemporaryResidenceAddressRef": {
+    "$oid": "61bf46cee548e826cb827d68"
+  },
+  "idPermanentAddressRef": {
+    "$oid": "61bc3c9cbfd8f603a4f8eb2d"
+  },
+  "gender": "female",
+  "hometown": "abcder",
+  "educationalLevel": "CAO ĐẲNG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bf476ae548e826cb827d83"
+  },
+  "name": "Tran Van F",
+  "idFamilyRef": {
+    "$oid": "61bf46ece548e826cb827d73"
+  },
+  "cardId": "123456789598485784",
+  "birth": {
+    "$date": "1977-10-11T13:40:32.422Z"
+  },
+  "job": "Công nhân",
+  "religion": "Tin Lành",
+  "idTemporaryResidenceAddressRef": {
+    "$oid": "61bf46cee548e826cb827d68"
+  },
+  "idPermanentAddressRef": {
+    "$oid": "61bc3c9cbfd8f603a4f8eb2d"
+  },
+  "gender": "male",
+  "hometown": "abcder",
+  "educationalLevel": "TRUNG HỌC CƠ SỞ",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ba378ca7ef91278c1428db"
+  },
+  "name": "Nguyen Van C",
+  "idFamilyRef": {
+    "$oid": "61ba30987c66d98010a92761"
+  },
+  "cardId": "1234567895410",
+  "birth": {
+    "$date": "2021-12-11T13:40:32.422Z"
+  },
+  "job": "Giao vien",
+  "religion": "Tứ Ân Hiếu Nghĩa",
+  "idTemporaryResidenceAddressRef": {
+    "$oid": "61bf46cee548e826cb827d68"
+  },
+  "idPermanentAddressRef": {
+    "$oid": "61bc3c9cbfd8f603a4f8eb2d"
+  },
+  "gender": "male",
+  "hometown": "abc",
+  "educationalLevel": "TRUNG CẤP",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c83b2f70be13d6d9a47d4a"
+  },
+  "name": "Nguyễn Thi D",
+  "idFamilyRef": {
+    "$oid": "61c83ac060b5d2ab64f6b2b6"
+  },
+  "cardId": "123456789541784",
+  "birth": {
+    "$date": "1991-09-11T13:40:32.422Z"
+  },
+  "job": "Giáo viên",
+  "religion": "Thiên chúa giáo",
+  "idTemporaryResidenceAddressRef": {
+    "$oid": "61c838024fa820ea35a26fe6"
+  },
+  "idPermanentAddressRef": {
+    "$oid": "61bc3c9cbfd8f603a4f8eb2d"
+  },
+  "gender": "female",
+  "hometown": "abc",
+  "educationalLevel": "ĐẠI HỌC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c83c034297baeb85c33b61"
+  },
+  "name": "Nguyễn Văn N",
+  "idFamilyRef": {
+    "$oid": "61c83ac060b5d2ab64f6b2b6"
+  },
+  "cardId": "",
+  "birth": {
+    "$date": "2011-04-12T13:40:32.422Z"
+  },
+  "job": "",
+  "religion": "Thiên chúa giáo",
+  "idTemporaryResidenceAddressRef": {
+    "$oid": "61c838024fa820ea35a26fe6"
+  },
+  "idPermanentAddressRef": {
+    "$oid": "61bc3c9cbfd8f603a4f8eb2d"
+  },
+  "gender": "male",
+  "hometown": "abc",
+  "educationalLevel": "DƯỚI TIỂU HỌC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c83c314297baeb85c33b68"
+  },
+  "name": "Nguyễn Thị M",
+  "idFamilyRef": {
+    "$oid": "61c83ac060b5d2ab64f6b2b6"
+  },
+  "cardId": "",
+  "birth": {
+    "$date": "2018-07-12T13:40:32.422Z"
+  },
+  "job": "",
+  "religion": "Thiên chúa giáo",
+  "idTemporaryResidenceAddressRef": {
+    "$oid": "61c838024fa820ea35a26fe6"
+  },
+  "idPermanentAddressRef": {
+    "$oid": "61bc3c9cbfd8f603a4f8eb2d"
+  },
+  "gender": "female",
+  "hometown": "abc",
+  "educationalLevel": "DƯỚI TIỂU HỌC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c83e9d3994cffc980f7a00"
+  },
+  "name": "Nguyễn Thị T",
+  "idFamilyRef": {
+    "$oid": "61c83e833994cffc980f79fa"
+  },
+  "cardId": "",
+  "birth": {
+    "$date": "2018-07-12T13:40:32.422Z"
+  },
+  "job": "",
+  "religion": "Thiên chúa giáo",
+  "idTemporaryResidenceAddressRef": {
+    "$oid": "61c838024fa820ea35a26fe4"
+  },
+  "idPermanentAddressRef": {
+    "$oid": "61c838024fa820ea35a26fd0"
+  },
+  "gender": "female",
+  "hometown": "abc",
+  "educationalLevel": "DƯỚI TIỂU HỌC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c83f003994cffc980f7a07"
+  },
+  "name": "Nguyễn Thị M",
+  "idFamilyRef": {
+    "$oid": "61c83e833994cffc980f79fa"
+  },
+  "cardId": "",
+  "birth": {
+    "$date": "1974-06-12T13:40:32.422Z"
+  },
+  "job": "Bác sĩ",
+  "religion": "",
+  "idTemporaryResidenceAddressRef": {
+    "$oid": "61c838024fa820ea35a26fe4"
+  },
+  "idPermanentAddressRef": {
+    "$oid": "61c838024fa820ea35a26fd0"
+  },
+  "gender": "female",
+  "hometown": "abc",
+  "educationalLevel": "ĐẠI HỌC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c83f243994cffc980f7a0e"
+  },
+  "name": "Nguyễn Văn D",
+  "idFamilyRef": {
+    "$oid": "61c83e833994cffc980f79fa"
+  },
+  "cardId": "",
+  "birth": {
+    "$date": "1974-06-12T13:40:32.422Z"
+  },
+  "job": "Kĩ sư",
+  "religion": "",
+  "idTemporaryResidenceAddressRef": {
+    "$oid": "61c838024fa820ea35a26fe4"
+  },
+  "idPermanentAddressRef": {
+    "$oid": "61bc3c9cbfd8f603a4f8eb2c"
+  },
+  "gender": "male",
+  "hometown": "abc",
+  "educationalLevel": "ĐẠI HỌC",
+  "__v": 0
+}]

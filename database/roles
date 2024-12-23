@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "61b5e366bf47d63c05ee12d6"
+  },
+  "name": "admin",
+  "idRoleManageRef": {
+    "$oid": "61b5e393bf47d63c05ee12d8"
+  }
+},{
+  "_id": {
+    "$oid": "61b5e393bf47d63c05ee12d8"
+  },
+  "name": "A1",
+  "idRoleManageRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "typeOfManageScope": "country"
+},{
+  "_id": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "name": "A2",
+  "idRoleManageRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "typeOfManageScope": "city"
+},{
+  "_id": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "name": "A3",
+  "idRoleManageRef": {
+    "$oid": "61b5e3cabf47d63c05ee12dc"
+  },
+  "typeOfManageScope": "district"
+},{
+  "_id": {
+    "$oid": "61b5e3cabf47d63c05ee12dc"
+  },
+  "name": "B1",
+  "idRoleManageRef": {
+    "$oid": "61b5e3dcbf47d63c05ee12dd"
+  },
+  "typeOfManageScope": "commune"
+},{
+  "_id": {
+    "$oid": "61b5e3dcbf47d63c05ee12dd"
+  },
+  "name": "B2",
+  "typeOfManageScope": "village"
+}]

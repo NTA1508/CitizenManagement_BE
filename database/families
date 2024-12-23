@@ -1,0 +1,169 @@
+[{
+  "_id": {
+    "$oid": "61bca7220bebacf7c2b8b2e0"
+  },
+  "idCardOfHeadOfHousehold": "1258525447",
+  "headOfHouseholdName": "Nguyen Van E",
+  "idAddressRef": {
+    "$oid": "61bca693f341f9fa8ac2abb3"
+  },
+  "householdCode": "0012130425875",
+  "members": [
+    {
+      "$oid": "61bca85bc6bdcd1703b49aff"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bca9f6c6bdcd1703b49b21"
+  },
+  "idCardOfHeadOfHousehold": "1258525447459",
+  "headOfHouseholdName": "Tran Van B",
+  "idAddressRef": {
+    "$oid": "61bca693f341f9fa8ac2abb3"
+  },
+  "householdCode": "0012130425875477",
+  "members": [
+    {
+      "$oid": "61bcaa27c6bdcd1703b49b27"
+    },
+    {
+      "$oid": "61bcaa97c6bdcd1703b49b2e"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bf2ca935d2c212dcfac747"
+  },
+  "idCardOfHeadOfHousehold": "1258525447485",
+  "headOfHouseholdName": "Tran Van B",
+  "idAddressRef": {
+    "$oid": "61bc3c9cbfd8f603a4f8eb2f"
+  },
+  "householdCode": "001213042587552588",
+  "members": [
+    {
+      "$oid": "61bf2cdf35d2c212dcfac74d"
+    },
+    {
+      "$oid": "61bf2d4b35d2c212dcfac754"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bf2da735d2c212dcfac760"
+  },
+  "idCardOfHeadOfHousehold": "1258525447485",
+  "headOfHouseholdName": "Tran Van B",
+  "idAddressRef": {
+    "$oid": "61bc3c9cbfd8f603a4f8eb30"
+  },
+  "householdCode": "001213042587552584",
+  "members": [
+    {
+      "$oid": "61bf2dc935d2c212dcfac76c"
+    },
+    {
+      "$oid": "61bf2dfef03dbcfce85eda10"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bf2e22f03dbcfce85eda16"
+  },
+  "idCardOfHeadOfHousehold": "1258525447485",
+  "headOfHouseholdName": "Tran Van B",
+  "idAddressRef": {
+    "$oid": "61bc3c9cbfd8f603a4f8eb32"
+  },
+  "householdCode": "00121304258755258485",
+  "members": [
+    {
+      "$oid": "61bf2e80f03dbcfce85eda1c"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bf46ece548e826cb827d73"
+  },
+  "idCardOfHeadOfHousehold": "1258525447485",
+  "headOfHouseholdName": "Tran Van B",
+  "idAddressRef": {
+    "$oid": "61bf46cee548e826cb827d68"
+  },
+  "householdCode": "0012130425875525885",
+  "members": [
+    {
+      "$oid": "61bf4711e548e826cb827d7c"
+    },
+    {
+      "$oid": "61bf476ae548e826cb827d83"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c4888a5f2b51754564ad7d"
+  },
+  "idCardOfHeadOfHousehold": "1258525447875",
+  "headOfHouseholdName": "Nguyen Van E",
+  "idAddressRef": {
+    "$oid": "61bf46cee548e826cb827d68"
+  },
+  "householdCode": "1252367891578",
+  "members": [
+    {
+      "$oid": "61ba378ca7ef91278c1428db"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c83ac060b5d2ab64f6b2b6"
+  },
+  "idCardOfHeadOfHousehold": "1258525447875",
+  "headOfHouseholdName": "Nguyễn Văn A",
+  "idAddressRef": {
+    "$oid": "61c838024fa820ea35a26fe6"
+  },
+  "householdCode": "1252367891567",
+  "members": [
+    {
+      "$oid": "61c83b2f70be13d6d9a47d4a"
+    },
+    {
+      "$oid": "61c83c034297baeb85c33b61"
+    },
+    {
+      "$oid": "61c83c314297baeb85c33b68"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c83e833994cffc980f79fa"
+  },
+  "idCardOfHeadOfHousehold": "1258525447875855",
+  "headOfHouseholdName": "Nguyễn Thị P",
+  "idAddressRef": {
+    "$oid": "61c838024fa820ea35a26fe4"
+  },
+  "householdCode": "12523678915685",
+  "members": [
+    {
+      "$oid": "61c83e9d3994cffc980f7a00"
+    },
+    {
+      "$oid": "61c83f003994cffc980f7a07"
+    },
+    {
+      "$oid": "61c83f243994cffc980f7a0e"
+    }
+  ],
+  "__v": 0
+}]

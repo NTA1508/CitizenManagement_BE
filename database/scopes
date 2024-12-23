@@ -1,0 +1,1713 @@
+[{
+  "_id": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "name": "Viet Nam",
+  "typeOfScope": "country",
+  "areaCode": ""
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c73"
+  },
+  "name": "Bến Tre",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "07",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c84"
+  },
+  "name": "Hà Nội ",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "24",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1ca4"
+  },
+  "name": "Thừa Thiên Huế",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "56",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c86"
+  },
+  "name": "Hải Dương",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "26",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c70"
+  },
+  "name": "Bắc Kạn",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "04",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1ca6"
+  },
+  "name": "Thành phố Hồ Chí Minh",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "58",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c7b"
+  },
+  "name": "Đà Nẵng",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "15",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c85"
+  },
+  "name": "Hà Tĩnh",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "25",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c88"
+  },
+  "name": "Hậu Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "28",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c92"
+  },
+  "name": "Long An",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "38",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c9d"
+  },
+  "name": "Quảng Trị",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "49",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c89"
+  },
+  "name": "Hòa Bình",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "29",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c98"
+  },
+  "name": "Phú Yên",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "44",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1ca9"
+  },
+  "name": "Vĩnh Long",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "61",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c7c"
+  },
+  "name": "Đắk Lắk",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "16",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c94"
+  },
+  "name": "Nghệ An",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "40",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c9a"
+  },
+  "name": "Quảng Nam",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "46",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c9c"
+  },
+  "name": "Quảng Ninh",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "48",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c76"
+  },
+  "name": "Bình Phước",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "10",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c79"
+  },
+  "name": "Cần Thơ",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "13",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c6e"
+  },
+  "name": "Bà rịa – Vũng tàu",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "02",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c72"
+  },
+  "name": "Bắc Ninh",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "06",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c8e"
+  },
+  "name": "Lai Châu",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "34",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c71"
+  },
+  "name": "Bạc Liêu",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "05",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c8a"
+  },
+  "name": "Hưng Yên",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "30",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c77"
+  },
+  "name": "Bình Thuận",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "11",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c82"
+  },
+  "name": "Hà Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "22",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c83"
+  },
+  "name": "Hà Nam",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "23",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c8f"
+  },
+  "name": "Lâm Đồng",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "35",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1ca0"
+  },
+  "name": "Tây Ninh",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "52",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1ca3"
+  },
+  "name": "Thanh Hóa",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "55",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c74"
+  },
+  "name": "Bình Định",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "08",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c75"
+  },
+  "name": "Bình Dương",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "09",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c80"
+  },
+  "name": "Đồng Tháp",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "20",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c90"
+  },
+  "name": "Lạng Sơn",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "36",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1ca1"
+  },
+  "name": "Thái Bình",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "53",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c97"
+  },
+  "name": "Phú Thọ",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "43",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c7a"
+  },
+  "name": "Cao Bằng ",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "14",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c6d"
+  },
+  "name": "An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "01",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c7d"
+  },
+  "name": "Đắk Nông",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "17",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c81"
+  },
+  "name": "Gia Lai",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "21",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c9e"
+  },
+  "name": "Sóc Trăng",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "50",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c9f"
+  },
+  "name": "Sơn La",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "51",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c7f"
+  },
+  "name": "Đồng Nai",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "19",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c8b"
+  },
+  "name": "Khánh Hòa",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "31",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c93"
+  },
+  "name": "Nam Định",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "39",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1ca7"
+  },
+  "name": "Trà Vinh",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "59",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c7e"
+  },
+  "name": "Điện Biên",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "18",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c8d"
+  },
+  "name": "Kon Tum",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "33",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c91"
+  },
+  "name": "Lào Cai",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "37",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c99"
+  },
+  "name": "Quảng Bình",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "45",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1ca8"
+  },
+  "name": "Tuyên Quang",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "60",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c6f"
+  },
+  "name": "Bắc Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "03",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c78"
+  },
+  "name": "Cà Mau",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "12",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c87"
+  },
+  "name": "Hải Phòng",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "27",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c8c"
+  },
+  "name": "Kiên Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "32",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c95"
+  },
+  "name": "Ninh Bình",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "41",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c96"
+  },
+  "name": "Ninh Thuận",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "42",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1c9b"
+  },
+  "name": "Quảng Ngãi",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "47",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb4af657c3212db7ec1ca2"
+  },
+  "name": "Thái Nguyên",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "54",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5b115bc2bc313790feb7"
+  },
+  "name": "quận/huyện 1 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c6d"
+  },
+  "areaCode": "0101",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5b115bc2bc313790fec9"
+  },
+  "name": "quận/huyện 7 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c6d"
+  },
+  "areaCode": "0107",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5b115bc2bc313790febd"
+  },
+  "name": "quận/huyện 3 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c6d"
+  },
+  "areaCode": "0103",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5b115bc2bc313790fecc"
+  },
+  "name": "quận/huyện 8 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c6d"
+  },
+  "areaCode": "0108",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5b115bc2bc313790feba"
+  },
+  "name": "quận/huyện 2 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c6d"
+  },
+  "areaCode": "0102",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5b115bc2bc313790fec6"
+  },
+  "name": "quận/huyện 6 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c6d"
+  },
+  "areaCode": "0106",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5b115bc2bc313790fec0"
+  },
+  "name": "quận/huyện 4 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c6d"
+  },
+  "areaCode": "0104",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5b115bc2bc313790fecf"
+  },
+  "name": "quận/huyện 9 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c6d"
+  },
+  "areaCode": "0109",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5b115bc2bc313790fec3"
+  },
+  "name": "quận/huyện 5 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c6d"
+  },
+  "areaCode": "0105",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bad9e7815bcbf9cc9d6"
+  },
+  "name": "quận/huyện 1 thành phố Bà rịa – Vũng tàu",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c6e"
+  },
+  "areaCode": "0201",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bad9e7815bcbf9cc9ee"
+  },
+  "name": "quận/huyện 9 thành phố Bà rịa – Vũng tàu",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c6e"
+  },
+  "areaCode": "0209",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bad9e7815bcbf9cc9df"
+  },
+  "name": "quận/huyện 4 thành phố Bà rịa – Vũng tàu",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c6e"
+  },
+  "areaCode": "0204",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bad9e7815bcbf9cc9dc"
+  },
+  "name": "quận/huyện 3 thành phố Bà rịa – Vũng tàu",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c6e"
+  },
+  "areaCode": "0203",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bad9e7815bcbf9cc9e2"
+  },
+  "name": "quận/huyện 5 thành phố Bà rịa – Vũng tàu",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c6e"
+  },
+  "areaCode": "0205",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bad9e7815bcbf9cc9e5"
+  },
+  "name": "quận/huyện 6 thành phố Bà rịa – Vũng tàu",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c6e"
+  },
+  "areaCode": "0206",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bad9e7815bcbf9cc9d9"
+  },
+  "name": "quận/huyện 2 thành phố Bà rịa – Vũng tàu",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c6e"
+  },
+  "areaCode": "0202",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bad9e7815bcbf9cc9e8"
+  },
+  "name": "quận/huyện 7 thành phố Bà rịa – Vũng tàu",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c6e"
+  },
+  "areaCode": "0207",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bad9e7815bcbf9cc9eb"
+  },
+  "name": "quận/huyện 8 thành phố Bà rịa – Vũng tàu",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c6e"
+  },
+  "areaCode": "0208",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bc6be0caadc67380dcc"
+  },
+  "name": "quận/huyện 8 thành phố Bắc Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c6f"
+  },
+  "areaCode": "0308",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bc6be0caadc67380dcf"
+  },
+  "name": "quận/huyện 9 thành phố Bắc Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c6f"
+  },
+  "areaCode": "0309",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bc6be0caadc67380dbd"
+  },
+  "name": "quận/huyện 3 thành phố Bắc Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c6f"
+  },
+  "areaCode": "0303",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bc6be0caadc67380dc0"
+  },
+  "name": "quận/huyện 4 thành phố Bắc Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c6f"
+  },
+  "areaCode": "0304",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bc6be0caadc67380dc9"
+  },
+  "name": "quận/huyện 7 thành phố Bắc Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c6f"
+  },
+  "areaCode": "0307",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bc6be0caadc67380dc6"
+  },
+  "name": "quận/huyện 6 thành phố Bắc Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c6f"
+  },
+  "areaCode": "0306",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bc6be0caadc67380db7"
+  },
+  "name": "quận/huyện 1 thành phố Bắc Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c6f"
+  },
+  "areaCode": "0301",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bc6be0caadc67380dba"
+  },
+  "name": "quận/huyện 2 thành phố Bắc Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c6f"
+  },
+  "areaCode": "0302",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bc6be0caadc67380dc3"
+  },
+  "name": "quận/huyện 5 thành phố Bắc Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c6f"
+  },
+  "areaCode": "0305",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb60e079690eb6a5b2378b"
+  },
+  "name": "xã/phường 2 quận/huyện 1 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb5b115bc2bc313790feb7"
+  },
+  "areaCode": "010102",
+  "typeOfScope": "commune",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb60e079690eb6a5b23791"
+  },
+  "name": "xã/phường 4 quận/huyện 1 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb5b115bc2bc313790feb7"
+  },
+  "areaCode": "010104",
+  "typeOfScope": "commune",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb60e079690eb6a5b23794"
+  },
+  "name": "xã/phường 5 quận/huyện 1 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb5b115bc2bc313790feb7"
+  },
+  "areaCode": "010105",
+  "typeOfScope": "commune",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb60e079690eb6a5b23788"
+  },
+  "name": "xã/phường 1 quận/huyện 1 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb5b115bc2bc313790feb7"
+  },
+  "areaCode": "010101",
+  "typeOfScope": "commune",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb60e079690eb6a5b2378e"
+  },
+  "name": "xã/phường 3 quận/huyện 1 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb5b115bc2bc313790feb7"
+  },
+  "areaCode": "010103",
+  "typeOfScope": "commune",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb60f1f093592b96f4f364"
+  },
+  "name": "xã/phường 1 quận/huyện 2 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb5b115bc2bc313790feba"
+  },
+  "areaCode": "010201",
+  "typeOfScope": "commune",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb60f1f093592b96f4f36a"
+  },
+  "name": "xã/phường 3 quận/huyện 2 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb5b115bc2bc313790feba"
+  },
+  "areaCode": "010203",
+  "typeOfScope": "commune",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb60f1f093592b96f4f367"
+  },
+  "name": "xã/phường 2 quận/huyện 2 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb5b115bc2bc313790feba"
+  },
+  "areaCode": "010202",
+  "typeOfScope": "commune",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb60f1f093592b96f4f370"
+  },
+  "name": "xã/phường 5 quận/huyện 2 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb5b115bc2bc313790feba"
+  },
+  "areaCode": "010205",
+  "typeOfScope": "commune",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb60f1f093592b96f4f36d"
+  },
+  "name": "xã/phường 4 quận/huyện 2 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb5b115bc2bc313790feba"
+  },
+  "areaCode": "010204",
+  "typeOfScope": "commune",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb615abb7d6c9432c90ab5"
+  },
+  "name": "tổ dân phố/làng 2 xã/phường 1 quận/huyện 1 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb60e079690eb6a5b23788"
+  },
+  "areaCode": "01010102",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb615abb7d6c9432c90abb"
+  },
+  "name": "tổ dân phố/làng 4 xã/phường 1 quận/huyện 1 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb60e079690eb6a5b23788"
+  },
+  "areaCode": "01010104",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb615abb7d6c9432c90ab8"
+  },
+  "name": "tổ dân phố/làng 3 xã/phường 1 quận/huyện 1 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb60e079690eb6a5b23788"
+  },
+  "areaCode": "01010103",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb615abb7d6c9432c90abe"
+  },
+  "name": "tổ dân phố/làng 5 xã/phường 1 quận/huyện 1 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb60e079690eb6a5b23788"
+  },
+  "areaCode": "01010105",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb615abb7d6c9432c90ab2"
+  },
+  "name": "tổ dân phố/làng 1 xã/phường 1 quận/huyện 1 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb60e079690eb6a5b23788"
+  },
+  "areaCode": "01010101",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb616c13e20a93cddc0663"
+  },
+  "name": "tổ dân phố/làng 3 xã/phường 2 quận/huyện 1 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb60e079690eb6a5b2378b"
+  },
+  "areaCode": "01010203",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb616c13e20a93cddc065d"
+  },
+  "name": "quan 5 phuong 1",
+  "belongToIdScopeRef": {
+    "$oid": "61bb60e079690eb6a5b2378b"
+  },
+  "areaCode": "01010201",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb616c13e20a93cddc0666"
+  },
+  "name": "tổ dân phố/làng 4 xã/phường 2 quận/huyện 1 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb60e079690eb6a5b2378b"
+  },
+  "areaCode": "01010204",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb616c13e20a93cddc0660"
+  },
+  "name": "tổ dân phố/làng 2 xã/phường 2 quận/huyện 1 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb60e079690eb6a5b2378b"
+  },
+  "areaCode": "01010202",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb616c13e20a93cddc0669"
+  },
+  "name": "tổ dân phố/làng 5 xã/phường 2 quận/huyện 1 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb60e079690eb6a5b2378b"
+  },
+  "areaCode": "01010205",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bc3bf634702e34327fed88"
+  },
+  "name": "tổ dân phố/làng 6 xã/phường 1 quận/huyện 1 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb60e079690eb6a5b23788"
+  },
+  "areaCode": "01010106",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bca29fad3e1c3665894b43"
+  },
+  "name": "tổ dân phố/làng 1 xã/phường 3 quận/huyện 1 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb60e079690eb6a5b2378e"
+  },
+  "areaCode": "01010301",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bca2b9ad3e1c3665894b51"
+  },
+  "name": "tổ dân phố/làng 2 xã/phường 3 quận/huyện 1 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb60e079690eb6a5b2378e"
+  },
+  "areaCode": "01010302",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bca2ccad3e1c3665894b5a"
+  },
+  "name": "tổ dân phố/làng 3 xã/phường 3 quận/huyện 1 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb60e079690eb6a5b2378e"
+  },
+  "areaCode": "01010303",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bf41a7487134d774315372"
+  },
+  "name": "xã/phường 1 quận/huyện 1 thành phố  Bà rịa – Vũng tàu",
+  "belongToIdScopeRef": {
+    "$oid": "61bb5bad9e7815bcbf9cc9d6"
+  },
+  "areaCode": "020101",
+  "typeOfScope": "commune",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bf42c4487134d77431538b"
+  },
+  "name": "tổ dân phố/làng 1 xã/phường 1 quận/huyện 1 thành phố Bà rịa – Vũng tàu",
+  "belongToIdScopeRef": {
+    "$oid": "61bf41a7487134d774315372"
+  },
+  "areaCode": "02010101",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c3d278bbe4d02d638fd731"
+  },
+  "name": "tổ dân phố/làng 9 xã/phường 2 quận/huyện 1 thành phố An Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61bb60e079690eb6a5b2378b"
+  },
+  "areaCode": "01010209",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c588a67d89c27def483ff2"
+  },
+  "name": "tổ dân phố/làng 6",
+  "belongToIdScopeRef": {
+    "$oid": "61bb60e079690eb6a5b2378b"
+  },
+  "areaCode": "01010213",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c66fab6a98e712b784933b"
+  },
+  "name": "tổ dân phố/làng 20",
+  "belongToIdScopeRef": {
+    "$oid": "61bb60e079690eb6a5b2378b"
+  },
+  "areaCode": "01010220",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c676696a98e712b78493de"
+  },
+  "name": "quận 21",
+  "belongToIdScopeRef": {
+    "$oid": "61bb60e079690eb6a5b2378b"
+  },
+  "areaCode": "01010221",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c677116a98e712b78493f3"
+  },
+  "name": "phuong qun 6",
+  "belongToIdScopeRef": {
+    "$oid": "61bb60e079690eb6a5b2378b"
+  },
+  "areaCode": "01010224",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c677676a98e712b784940c"
+  },
+  "name": "phuong 6 quan 5",
+  "belongToIdScopeRef": {
+    "$oid": "61bb60e079690eb6a5b2378b"
+  },
+  "areaCode": "01010235",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c67a746a98e712b784947e"
+  },
+  "name": "qdwqdq",
+  "belongToIdScopeRef": {
+    "$oid": "61bb60e079690eb6a5b2378b"
+  },
+  "areaCode": "01010206",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c67d2f6a98e712b784949f"
+  },
+  "name": "phuong 1 quan 2",
+  "belongToIdScopeRef": {
+    "$oid": "61bb60e079690eb6a5b2378b"
+  },
+  "areaCode": "01010210",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c67d516a98e712b78494b0"
+  },
+  "name": "phuong 1 quan 4",
+  "belongToIdScopeRef": {
+    "$oid": "61bb60e079690eb6a5b2378b"
+  },
+  "areaCode": "01010211",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c681456a98e712b7849508"
+  },
+  "name": "phuong2",
+  "belongToIdScopeRef": {
+    "$oid": "61bb60e079690eb6a5b2378b"
+  },
+  "areaCode": "01010207",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c70c0d38f71f5c218a5fed"
+  },
+  "name": "affnqofqwfwq",
+  "belongToIdScopeRef": {
+    "$oid": "61bb60e079690eb6a5b2378b"
+  },
+  "areaCode": "01010208",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c81994187ee0c85dda6c38"
+  },
+  "name": "Tiền Giang",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "57",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c819eaf736cd12f2220521"
+  },
+  "name": "Vĩnh Phúc",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "62",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c819fdf736cd12f222052f"
+  },
+  "name": "Yên Bái",
+  "belongToIdScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "areaCode": "63",
+  "typeOfScope": "city",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c81bf8e89541179534baaf"
+  },
+  "name": "Ba Đình",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c84"
+  },
+  "areaCode": "2401",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c81c0ee89541179534bab8"
+  },
+  "name": "Bắc Từ Liêm",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c84"
+  },
+  "areaCode": "2402",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c81c28e89541179534bac6"
+  },
+  "name": "Cầu Giấy",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c84"
+  },
+  "areaCode": "2403",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c81c3ee89541179534bad4"
+  },
+  "name": "Đống Đa",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c84"
+  },
+  "areaCode": "2404",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c81c53e89541179534badd"
+  },
+  "name": "Hà Đông",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c84"
+  },
+  "areaCode": "2405",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c81c69e89541179534bae6"
+  },
+  "name": "Hai Bà Trưng",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c84"
+  },
+  "areaCode": "2406",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c81c7be89541179534baef"
+  },
+  "name": "Hoàn Kiếm",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c84"
+  },
+  "areaCode": "2407",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c81c91e89541179534baf8"
+  },
+  "name": "Hoàng Mai",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c84"
+  },
+  "areaCode": "2408",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c81ca2e89541179534bb01"
+  },
+  "name": "Long Biên",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c84"
+  },
+  "areaCode": "2409",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c81cb2e89541179534bb0a"
+  },
+  "name": "Nam Từ Liêm",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c84"
+  },
+  "areaCode": "2410",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c81cc3e89541179534bb13"
+  },
+  "name": "Tây Hồ",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c84"
+  },
+  "areaCode": "2411",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c81d05e89541179534bb1c"
+  },
+  "name": " Thanh Xuân",
+  "belongToIdScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c84"
+  },
+  "areaCode": "2412",
+  "typeOfScope": "district",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c83136419d0e18b791578e"
+  },
+  "name": " Nghĩa Đô",
+  "belongToIdScopeRef": {
+    "$oid": "61c81c28e89541179534bac6"
+  },
+  "areaCode": "240301",
+  "typeOfScope": "commune",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c8314d419d0e18b791579c"
+  },
+  "name": "Quan Hoa",
+  "belongToIdScopeRef": {
+    "$oid": "61c81c28e89541179534bac6"
+  },
+  "areaCode": "240302",
+  "typeOfScope": "commune",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c83166419d0e18b79157a5"
+  },
+  "name": "Dịch Vọng",
+  "belongToIdScopeRef": {
+    "$oid": "61c81c28e89541179534bac6"
+  },
+  "areaCode": "240303",
+  "typeOfScope": "commune",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c83182419d0e18b79157ae"
+  },
+  "name": " Dịch Vọng Hậu",
+  "belongToIdScopeRef": {
+    "$oid": "61c81c28e89541179534bac6"
+  },
+  "areaCode": "240304",
+  "typeOfScope": "commune",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c83196419d0e18b79157b7"
+  },
+  "name": "Trung Hòa",
+  "belongToIdScopeRef": {
+    "$oid": "61c81c28e89541179534bac6"
+  },
+  "areaCode": "240305",
+  "typeOfScope": "commune",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c831aa419d0e18b79157c0"
+  },
+  "name": "Nghĩa Tân",
+  "belongToIdScopeRef": {
+    "$oid": "61c81c28e89541179534bac6"
+  },
+  "areaCode": "240306",
+  "typeOfScope": "commune",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c831bd419d0e18b79157ce"
+  },
+  "name": "Mai Dịch",
+  "belongToIdScopeRef": {
+    "$oid": "61c81c28e89541179534bac6"
+  },
+  "areaCode": "240307",
+  "typeOfScope": "commune",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c831d3419d0e18b79157dc"
+  },
+  "name": "Yên Hòa",
+  "belongToIdScopeRef": {
+    "$oid": "61c81c28e89541179534bac6"
+  },
+  "areaCode": "240308",
+  "typeOfScope": "commune",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c8362a4fa820ea35a26f52"
+  },
+  "name": "Tổ dân phố 1 YH",
+  "belongToIdScopeRef": {
+    "$oid": "61c831d3419d0e18b79157dc"
+  },
+  "areaCode": "24030801",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c8363c4fa820ea35a26f5b"
+  },
+  "name": "Tổ dân phố 2 YH",
+  "belongToIdScopeRef": {
+    "$oid": "61c831d3419d0e18b79157dc"
+  },
+  "areaCode": "24030802",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c836444fa820ea35a26f64"
+  },
+  "name": "Tổ dân phố 3 YH",
+  "belongToIdScopeRef": {
+    "$oid": "61c831d3419d0e18b79157dc"
+  },
+  "areaCode": "24030803",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c836a54fa820ea35a26f72"
+  },
+  "name": "Tổ dân phố 1 MD",
+  "belongToIdScopeRef": {
+    "$oid": "61c831bd419d0e18b79157ce"
+  },
+  "areaCode": "24030701",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c836af4fa820ea35a26f7b"
+  },
+  "name": "Tổ dân phố 2 MD",
+  "belongToIdScopeRef": {
+    "$oid": "61c831bd419d0e18b79157ce"
+  },
+  "areaCode": "24030702",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c836b74fa820ea35a26f84"
+  },
+  "name": "Tổ dân phố 3 MD",
+  "belongToIdScopeRef": {
+    "$oid": "61c831bd419d0e18b79157ce"
+  },
+  "areaCode": "24030703",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c836be4fa820ea35a26f8d"
+  },
+  "name": "Tổ dân phố 4 MD",
+  "belongToIdScopeRef": {
+    "$oid": "61c831bd419d0e18b79157ce"
+  },
+  "areaCode": "24030704",
+  "typeOfScope": "village",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c836e54fa820ea35a26fa3"
+  },
+  "name": "Tổ dân phố 5 MD",
+  "belongToIdScopeRef": {
+    "$oid": "61c831bd419d0e18b79157ce"
+  },
+  "areaCode": "24030705",
+  "typeOfScope": "village",
+  "__v": 0
+}]

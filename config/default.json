@@ -1,0 +1,5 @@
+{
+    "jwtPrivateKey": "unsecureKey",
+    "db": "mongodb://127.0.0.1:27017/citizenMg",
+    "port": 3000
+}

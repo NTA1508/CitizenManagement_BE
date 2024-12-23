@@ -1,0 +1,2995 @@
+[{
+  "_id": {
+    "$oid": "61b5e15fbf47d63c05ee12d4"
+  },
+  "username": "admin",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "idRoleRef": {
+    "$oid": "61b5e366bf47d63c05ee12d6"
+  },
+  "declarable": "true",
+  "name": "admin"
+},{
+  "_id": {
+    "$oid": "61ba16d85f6dc3ffd9d1d899"
+  },
+  "addedBy": {
+    "$oid": "61b5e15fbf47d63c05ee12d4"
+  },
+  "name": "Nguyen Van f",
+  "idManagedScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e393bf47d63c05ee12d8"
+  },
+  "username": "vietnam1",
+  "password": "$2b$10$XhgPl7HfVMVNe4d7nnlDUevw.8GMf.keBoWh.O/JBHqOCT0enmARi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ba170a5f6dc3ffd9d1d8a6"
+  },
+  "addedBy": {
+    "$oid": "61b5e15fbf47d63c05ee12d4"
+  },
+  "name": "Nguyen Van a",
+  "idManagedScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e393bf47d63c05ee12d8"
+  },
+  "username": "vietnam2",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ba171d5f6dc3ffd9d1d8b3"
+  },
+  "addedBy": {
+    "$oid": "61b5e15fbf47d63c05ee12d4"
+  },
+  "name": "Nguyen Van a",
+  "idManagedScopeRef": {
+    "$oid": "61b5e0febf47d63c05ee12d2"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e393bf47d63c05ee12d8"
+  },
+  "username": "vietnam3",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc95ea"
+  },
+  "addedBy": {
+    "$oid": "61ba171d5f6dc3ffd9d1d8b3"
+  },
+  "name": "cán bộ thành phố Bắc Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c6f"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "03",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc9609"
+  },
+  "addedBy": {
+    "$oid": "61ba16d85f6dc3ffd9d1d899"
+  },
+  "name": "cán bộ thành phố Lai Châu",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c8e"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "34",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc95e9"
+  },
+  "addedBy": {
+    "$oid": "61ba170a5f6dc3ffd9d1d8a6"
+  },
+  "name": "cán bộ thành phố Bà rịa – Vũng tàu",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c6e"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "02",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc95f8"
+  },
+  "addedBy": {
+    "$oid": "61ba170a5f6dc3ffd9d1d8a6"
+  },
+  "name": "cán bộ thành phố Đắk Nông",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c7d"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "17",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc95fd"
+  },
+  "addedBy": {
+    "$oid": "61ba16d85f6dc3ffd9d1d899"
+  },
+  "name": "cán bộ thành phố Hà Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c82"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "22",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc9606"
+  },
+  "addedBy": {
+    "$oid": "61ba16d85f6dc3ffd9d1d899"
+  },
+  "name": "cán bộ thành phố Khánh Hòa",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c8b"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "31",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc9618"
+  },
+  "addedBy": {
+    "$oid": "61ba16d85f6dc3ffd9d1d899"
+  },
+  "name": "cán bộ thành phố Quảng Trị",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c9d"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "49",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc9619"
+  },
+  "addedBy": {
+    "$oid": "61ba170a5f6dc3ffd9d1d8a6"
+  },
+  "name": "cán bộ thành phố Sóc Trăng",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c9e"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "50",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc961f"
+  },
+  "addedBy": {
+    "$oid": "61ba170a5f6dc3ffd9d1d8a6"
+  },
+  "name": "cán bộ thành phố Thừa Thiên Huế",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1ca4"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "56",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc960d"
+  },
+  "addedBy": {
+    "$oid": "61ba170a5f6dc3ffd9d1d8a6"
+  },
+  "name": "cán bộ thành phố Long An",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c92"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "38",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc9610"
+  },
+  "addedBy": {
+    "$oid": "61ba170a5f6dc3ffd9d1d8a6"
+  },
+  "name": "cán bộ thành phố Ninh Bình",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c95"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "41",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc95f1"
+  },
+  "addedBy": {
+    "$oid": "61ba16d85f6dc3ffd9d1d899"
+  },
+  "name": "cán bộ thành phố Bình Phước",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c76"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "10",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc9622"
+  },
+  "addedBy": {
+    "$oid": "61ba170a5f6dc3ffd9d1d8a6"
+  },
+  "name": "cán bộ thành phố Trà Vinh",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1ca7"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "59",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc95ee"
+  },
+  "addedBy": {
+    "$oid": "61ba16d85f6dc3ffd9d1d899"
+  },
+  "name": "cán bộ thành phố Bến Tre",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c73"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "07",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc95f5"
+  },
+  "addedBy": {
+    "$oid": "61ba170a5f6dc3ffd9d1d8a6"
+  },
+  "name": "cán bộ thành phố Cao Bằng ",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c7a"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "14",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc95f2"
+  },
+  "addedBy": {
+    "$oid": "61ba170a5f6dc3ffd9d1d8a6"
+  },
+  "name": "cán bộ thành phố Bình Thuận",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c77"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "11",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc95fb"
+  },
+  "addedBy": {
+    "$oid": "61ba170a5f6dc3ffd9d1d8a6"
+  },
+  "name": "cán bộ thành phố Đồng Tháp",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c80"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "20",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc961c"
+  },
+  "addedBy": {
+    "$oid": "61ba170a5f6dc3ffd9d1d8a6"
+  },
+  "name": "cán bộ thành phố Thái Bình",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1ca1"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "53",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc95fa"
+  },
+  "addedBy": {
+    "$oid": "61ba16d85f6dc3ffd9d1d899"
+  },
+  "name": "cán bộ thành phố Đồng Nai",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c7f"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "19",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc9602"
+  },
+  "addedBy": {
+    "$oid": "61ba171d5f6dc3ffd9d1d8b3"
+  },
+  "name": "cán bộ thành phố Hải Phòng",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c87"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "27",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc9608"
+  },
+  "addedBy": {
+    "$oid": "61ba171d5f6dc3ffd9d1d8b3"
+  },
+  "name": "cán bộ thành phố Kon Tum",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c8d"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "33",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc9615"
+  },
+  "addedBy": {
+    "$oid": "61ba16d85f6dc3ffd9d1d899"
+  },
+  "name": "cán bộ thành phố Quảng Nam",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c9a"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "46",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc9617"
+  },
+  "addedBy": {
+    "$oid": "61ba171d5f6dc3ffd9d1d8b3"
+  },
+  "name": "cán bộ thành phố Quảng Ninh",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c9c"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "48",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc961e"
+  },
+  "addedBy": {
+    "$oid": "61ba16d85f6dc3ffd9d1d899"
+  },
+  "name": "cán bộ thành phố Thanh Hóa",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1ca3"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "55",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc95fc"
+  },
+  "addedBy": {
+    "$oid": "61ba171d5f6dc3ffd9d1d8b3"
+  },
+  "name": "cán bộ thành phố Gia Lai",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c81"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "21",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc9621"
+  },
+  "addedBy": {
+    "$oid": "61ba16d85f6dc3ffd9d1d899"
+  },
+  "name": "cán bộ thành phố Thành phố Hồ Chí Minh",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1ca6"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "58",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc95f0"
+  },
+  "addedBy": {
+    "$oid": "61ba171d5f6dc3ffd9d1d8b3"
+  },
+  "name": "cán bộ thành phố Bình Dương",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c75"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "09",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc95f3"
+  },
+  "addedBy": {
+    "$oid": "61ba171d5f6dc3ffd9d1d8b3"
+  },
+  "name": "cán bộ thành phố Cà Mau",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c78"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "12",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc95f4"
+  },
+  "addedBy": {
+    "$oid": "61ba16d85f6dc3ffd9d1d899"
+  },
+  "name": "cán bộ thành phố Cần Thơ",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c79"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "13",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc960b"
+  },
+  "addedBy": {
+    "$oid": "61ba171d5f6dc3ffd9d1d8b3"
+  },
+  "name": "cán bộ thành phố Lạng Sơn",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c90"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "36",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc960e"
+  },
+  "addedBy": {
+    "$oid": "61ba171d5f6dc3ffd9d1d8b3"
+  },
+  "name": "cán bộ thành phố Nam Định",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c93"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "39",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc960f"
+  },
+  "addedBy": {
+    "$oid": "61ba16d85f6dc3ffd9d1d899"
+  },
+  "name": "cán bộ thành phố Nghệ An",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c94"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "40",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc9603"
+  },
+  "addedBy": {
+    "$oid": "61ba16d85f6dc3ffd9d1d899"
+  },
+  "name": "cán bộ thành phố Hậu Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c88"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "28",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc9600"
+  },
+  "addedBy": {
+    "$oid": "61ba16d85f6dc3ffd9d1d899"
+  },
+  "name": "cán bộ thành phố Hà Tĩnh",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c85"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "25",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc9623"
+  },
+  "addedBy": {
+    "$oid": "61ba171d5f6dc3ffd9d1d8b3"
+  },
+  "name": "cán bộ thành phố Tuyên Quang",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1ca8"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "60",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc960a"
+  },
+  "addedBy": {
+    "$oid": "61ba170a5f6dc3ffd9d1d8a6"
+  },
+  "name": "cán bộ thành phố Lâm Đồng",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c8f"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "35",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc95fe"
+  },
+  "addedBy": {
+    "$oid": "61ba170a5f6dc3ffd9d1d8a6"
+  },
+  "name": "cán bộ thành phố Hà Nam",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c83"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "23",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc9607"
+  },
+  "addedBy": {
+    "$oid": "61ba170a5f6dc3ffd9d1d8a6"
+  },
+  "name": "cán bộ thành phố Kiên Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c8c"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "32",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc95ff"
+  },
+  "addedBy": {
+    "$oid": "61ba171d5f6dc3ffd9d1d8b3"
+  },
+  "name": "cán bộ thành phố Hà Nội ",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c84"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "24",
+  "password": "$2b$10$GistdBXDYRD78.q9r9bGv.ePNRamltZ4IP4ah2p79V.C6JzVTfA..",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc961b"
+  },
+  "addedBy": {
+    "$oid": "61ba16d85f6dc3ffd9d1d899"
+  },
+  "name": "cán bộ thành phố Tây Ninh",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1ca0"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "52",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc9614"
+  },
+  "addedBy": {
+    "$oid": "61ba171d5f6dc3ffd9d1d8b3"
+  },
+  "name": "cán bộ thành phố Quảng Bình",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c99"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "45",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc9604"
+  },
+  "addedBy": {
+    "$oid": "61ba170a5f6dc3ffd9d1d8a6"
+  },
+  "name": "cán bộ thành phố Hòa Bình",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c89"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "29",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc9611"
+  },
+  "addedBy": {
+    "$oid": "61ba171d5f6dc3ffd9d1d8b3"
+  },
+  "name": "cán bộ thành phố Ninh Thuận",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c96"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "42",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc9613"
+  },
+  "addedBy": {
+    "$oid": "61ba170a5f6dc3ffd9d1d8a6"
+  },
+  "name": "cán bộ thành phố Phú Yên",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c98"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "44",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc9616"
+  },
+  "addedBy": {
+    "$oid": "61ba170a5f6dc3ffd9d1d8a6"
+  },
+  "name": "cán bộ thành phố Quảng Ngãi",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c9b"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "47",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc9612"
+  },
+  "addedBy": {
+    "$oid": "61ba16d85f6dc3ffd9d1d899"
+  },
+  "name": "cán bộ thành phố Phú Thọ",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c97"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "43",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc95ec"
+  },
+  "addedBy": {
+    "$oid": "61ba170a5f6dc3ffd9d1d8a6"
+  },
+  "name": "cán bộ thành phố Bạc Liêu",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c71"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "05",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc95e8"
+  },
+  "addedBy": {
+    "$oid": "61ba16d85f6dc3ffd9d1d899"
+  },
+  "name": "cán bộ thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c6d"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "01",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc961d"
+  },
+  "addedBy": {
+    "$oid": "61ba171d5f6dc3ffd9d1d8b3"
+  },
+  "name": "cán bộ thành phố Thái Nguyên",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1ca2"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "54",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc9601"
+  },
+  "addedBy": {
+    "$oid": "61ba170a5f6dc3ffd9d1d8a6"
+  },
+  "name": "cán bộ thành phố Hải Dương",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c86"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "26",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc95f6"
+  },
+  "addedBy": {
+    "$oid": "61ba171d5f6dc3ffd9d1d8b3"
+  },
+  "name": "cán bộ thành phố Đà Nẵng",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c7b"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "15",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc9605"
+  },
+  "addedBy": {
+    "$oid": "61ba171d5f6dc3ffd9d1d8b3"
+  },
+  "name": "cán bộ thành phố Hưng Yên",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c8a"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "30",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc960c"
+  },
+  "addedBy": {
+    "$oid": "61ba16d85f6dc3ffd9d1d899"
+  },
+  "name": "cán bộ thành phố Lào Cai",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c91"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "37",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc961a"
+  },
+  "addedBy": {
+    "$oid": "61ba171d5f6dc3ffd9d1d8b3"
+  },
+  "name": "cán bộ thành phố Sơn La",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c9f"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "51",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc95eb"
+  },
+  "addedBy": {
+    "$oid": "61ba16d85f6dc3ffd9d1d899"
+  },
+  "name": "cán bộ thành phố Bắc Kạn",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c70"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "04",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc95ed"
+  },
+  "addedBy": {
+    "$oid": "61ba171d5f6dc3ffd9d1d8b3"
+  },
+  "name": "cán bộ thành phố Bắc Ninh",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c72"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "06",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc95ef"
+  },
+  "addedBy": {
+    "$oid": "61ba170a5f6dc3ffd9d1d8a6"
+  },
+  "name": "cán bộ thành phố Bình Định",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c74"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "08",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc95f7"
+  },
+  "addedBy": {
+    "$oid": "61ba16d85f6dc3ffd9d1d899"
+  },
+  "name": "cán bộ thành phố Đắk Lắk",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c7c"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "16",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc95f9"
+  },
+  "addedBy": {
+    "$oid": "61ba171d5f6dc3ffd9d1d8b3"
+  },
+  "name": "cán bộ thành phố Điện Biên",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1c7e"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "18",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb50799075012db9fc9624"
+  },
+  "addedBy": {
+    "$oid": "61ba16d85f6dc3ffd9d1d899"
+  },
+  "name": "cán bộ thành phố Vĩnh Long",
+  "idManagedScopeRef": {
+    "$oid": "61bb4af657c3212db7ec1ca9"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "61",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5b115bc2bc313790fed1"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95e8"
+  },
+  "name": "cán bộ quận/huyện 9 của thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb5b115bc2bc313790fecf"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "0109",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5b115bc2bc313790fec2"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95e8"
+  },
+  "name": "cán bộ quận/huyện 4 của thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb5b115bc2bc313790fec0"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "0104",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5b115bc2bc313790febc"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95e8"
+  },
+  "name": "cán bộ quận/huyện 2 của thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb5b115bc2bc313790feba"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "0102",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5b115bc2bc313790fece"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95e8"
+  },
+  "name": "cán bộ quận/huyện 8 của thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb5b115bc2bc313790fecc"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "0108",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5b115bc2bc313790febf"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95e8"
+  },
+  "name": "cán bộ quận/huyện 3 của thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb5b115bc2bc313790febd"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "0103",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5b115bc2bc313790feb9"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95e8"
+  },
+  "name": "cán bộ quận/huyện 1 của thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb5b115bc2bc313790feb7"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "0101",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5b115bc2bc313790fecb"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95e8"
+  },
+  "name": "cán bộ quận/huyện 7 của thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb5b115bc2bc313790fec9"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "0107",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5b115bc2bc313790fec8"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95e8"
+  },
+  "name": "cán bộ quận/huyện 6 của thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb5b115bc2bc313790fec6"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "0106",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5b115bc2bc313790fec5"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95e8"
+  },
+  "name": "cán bộ quận/huyện 5 của thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb5b115bc2bc313790fec3"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "0105",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bad9e7815bcbf9cc9ed"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95e9"
+  },
+  "name": "cán bộ quận/huyện 8 của thành phố Bà rịa – Vũng tàu",
+  "idManagedScopeRef": {
+    "$oid": "61bb5bad9e7815bcbf9cc9eb"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "0208",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bad9e7815bcbf9cc9e1"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95e9"
+  },
+  "name": "cán bộ quận/huyện 4 của thành phố Bà rịa – Vũng tàu",
+  "idManagedScopeRef": {
+    "$oid": "61bb5bad9e7815bcbf9cc9df"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "0204",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bad9e7815bcbf9cc9db"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95e9"
+  },
+  "name": "cán bộ quận/huyện 2 của thành phố Bà rịa – Vũng tàu",
+  "idManagedScopeRef": {
+    "$oid": "61bb5bad9e7815bcbf9cc9d9"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "0202",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bad9e7815bcbf9cc9ea"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95e9"
+  },
+  "name": "cán bộ quận/huyện 7 của thành phố Bà rịa – Vũng tàu",
+  "idManagedScopeRef": {
+    "$oid": "61bb5bad9e7815bcbf9cc9e8"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "0207",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bad9e7815bcbf9cc9f0"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95e9"
+  },
+  "name": "cán bộ quận/huyện 9 của thành phố Bà rịa – Vũng tàu",
+  "idManagedScopeRef": {
+    "$oid": "61bb5bad9e7815bcbf9cc9ee"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "0209",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bad9e7815bcbf9cc9e4"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95e9"
+  },
+  "name": "cán bộ quận/huyện 5 của thành phố Bà rịa – Vũng tàu",
+  "idManagedScopeRef": {
+    "$oid": "61bb5bad9e7815bcbf9cc9e2"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "0205",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bad9e7815bcbf9cc9de"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95e9"
+  },
+  "name": "cán bộ quận/huyện 3 của thành phố Bà rịa – Vũng tàu",
+  "idManagedScopeRef": {
+    "$oid": "61bb5bad9e7815bcbf9cc9dc"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "0203",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bad9e7815bcbf9cc9e7"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95e9"
+  },
+  "name": "cán bộ quận/huyện 6 của thành phố Bà rịa – Vũng tàu",
+  "idManagedScopeRef": {
+    "$oid": "61bb5bad9e7815bcbf9cc9e5"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "0206",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bad9e7815bcbf9cc9d8"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95e9"
+  },
+  "name": "cán bộ quận/huyện 1 của thành phố Bà rịa – Vũng tàu",
+  "idManagedScopeRef": {
+    "$oid": "61bb5bad9e7815bcbf9cc9d6"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "0201",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bc6be0caadc67380dcb"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95ea"
+  },
+  "name": "cán bộ quận/huyện 7 của thành phố Bắc Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb5bc6be0caadc67380dc9"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "0307",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bc6be0caadc67380dbf"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95ea"
+  },
+  "name": "cán bộ quận/huyện 3 của thành phố Bắc Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb5bc6be0caadc67380dbd"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "0303",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bc6be0caadc67380dc5"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95ea"
+  },
+  "name": "cán bộ quận/huyện 5 của thành phố Bắc Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb5bc6be0caadc67380dc3"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "0305",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bc6be0caadc67380dce"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95ea"
+  },
+  "name": "cán bộ quận/huyện 8 của thành phố Bắc Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb5bc6be0caadc67380dcc"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "0308",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bc6be0caadc67380db9"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95ea"
+  },
+  "name": "cán bộ quận/huyện 1 của thành phố Bắc Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb5bc6be0caadc67380db7"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "0301",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bc6be0caadc67380dd1"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95ea"
+  },
+  "name": "cán bộ quận/huyện 9 của thành phố Bắc Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb5bc6be0caadc67380dcf"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "0309",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bc6be0caadc67380dbc"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95ea"
+  },
+  "name": "cán bộ quận/huyện 2 của thành phố Bắc Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb5bc6be0caadc67380dba"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "0302",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bc6be0caadc67380dc2"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95ea"
+  },
+  "name": "cán bộ quận/huyện 4 của thành phố Bắc Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb5bc6be0caadc67380dc0"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "0304",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb5bc6be0caadc67380dc8"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95ea"
+  },
+  "name": "cán bộ quận/huyện 6 của thành phố Bắc Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb5bc6be0caadc67380dc6"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "0306",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb60e079690eb6a5b2378a"
+  },
+  "addedBy": {
+    "$oid": "61bb5b115bc2bc313790feb9"
+  },
+  "name": "cán bộ xã/phường 1 quận/huyện 1 thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb60e079690eb6a5b23788"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3cabf47d63c05ee12dc"
+  },
+  "username": "010101",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb60e079690eb6a5b2378d"
+  },
+  "addedBy": {
+    "$oid": "61bb5b115bc2bc313790feb9"
+  },
+  "name": "cán bộ xã/phường 2 quận/huyện 1 thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb60e079690eb6a5b2378b"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3cabf47d63c05ee12dc"
+  },
+  "username": "010102",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb60e079690eb6a5b23790"
+  },
+  "addedBy": {
+    "$oid": "61bb5b115bc2bc313790feb9"
+  },
+  "name": "cán bộ xã/phường 3 quận/huyện 1 thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb60e079690eb6a5b2378e"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3cabf47d63c05ee12dc"
+  },
+  "username": "010103",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb60e079690eb6a5b23793"
+  },
+  "addedBy": {
+    "$oid": "61bb5b115bc2bc313790feb9"
+  },
+  "name": "cán bộ xã/phường 4 quận/huyện 1 thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb60e079690eb6a5b23791"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3cabf47d63c05ee12dc"
+  },
+  "username": "010104",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb60e079690eb6a5b23796"
+  },
+  "addedBy": {
+    "$oid": "61bb5b115bc2bc313790feb9"
+  },
+  "name": "cán bộ xã/phường 5 quận/huyện 1 thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb60e079690eb6a5b23794"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3cabf47d63c05ee12dc"
+  },
+  "username": "010105",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb60f1f093592b96f4f369"
+  },
+  "addedBy": {
+    "$oid": "61bb5b115bc2bc313790febc"
+  },
+  "name": "cán bộ xã/phường 2 quận/huyện 2 thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb60f1f093592b96f4f367"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3cabf47d63c05ee12dc"
+  },
+  "username": "010202",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb60f1f093592b96f4f366"
+  },
+  "addedBy": {
+    "$oid": "61bb5b115bc2bc313790febc"
+  },
+  "name": "cán bộ xã/phường 1 quận/huyện 2 thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb60f1f093592b96f4f364"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3cabf47d63c05ee12dc"
+  },
+  "username": "010201",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb60f1f093592b96f4f36c"
+  },
+  "addedBy": {
+    "$oid": "61bb5b115bc2bc313790febc"
+  },
+  "name": "cán bộ xã/phường 3 quận/huyện 2 thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb60f1f093592b96f4f36a"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3cabf47d63c05ee12dc"
+  },
+  "username": "010203",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb60f1f093592b96f4f36f"
+  },
+  "addedBy": {
+    "$oid": "61bb5b115bc2bc313790febc"
+  },
+  "name": "cán bộ xã/phường 4 quận/huyện 2 thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb60f1f093592b96f4f36d"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3cabf47d63c05ee12dc"
+  },
+  "username": "010204",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb60f1f093592b96f4f372"
+  },
+  "addedBy": {
+    "$oid": "61bb5b115bc2bc313790febc"
+  },
+  "name": "cán bộ xã/phường 5 quận/huyện 2 thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb60f1f093592b96f4f370"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3cabf47d63c05ee12dc"
+  },
+  "username": "010205",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb615abb7d6c9432c90ac0"
+  },
+  "addedBy": {
+    "$oid": "61bb60e079690eb6a5b2378a"
+  },
+  "name": "cán bộ tổ dân phố/làng 5 xã/phường 1 quận/huyện 1 thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb615abb7d6c9432c90abe"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3cabf47d63c05ee12dc"
+  },
+  "username": "01010105",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb615abb7d6c9432c90abd"
+  },
+  "addedBy": {
+    "$oid": "61bb60e079690eb6a5b2378a"
+  },
+  "name": "cán bộ tổ dân phố/làng 4 xã/phường 1 quận/huyện 1 thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb615abb7d6c9432c90abb"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3cabf47d63c05ee12dc"
+  },
+  "username": "01010104",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb615abb7d6c9432c90ab7"
+  },
+  "addedBy": {
+    "$oid": "61bb60e079690eb6a5b2378a"
+  },
+  "name": "cán bộ tổ dân phố/làng 2 xã/phường 1 quận/huyện 1 thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb615abb7d6c9432c90ab5"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3cabf47d63c05ee12dc"
+  },
+  "username": "01010102",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb615abb7d6c9432c90aba"
+  },
+  "addedBy": {
+    "$oid": "61bb60e079690eb6a5b2378a"
+  },
+  "name": "cán bộ tổ dân phố/làng 3 xã/phường 1 quận/huyện 1 thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb615abb7d6c9432c90ab8"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3cabf47d63c05ee12dc"
+  },
+  "username": "01010103",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb615abb7d6c9432c90ab4"
+  },
+  "addedBy": {
+    "$oid": "61bb60e079690eb6a5b2378a"
+  },
+  "name": "cán bộ tổ dân phố/làng 1 xã/phường 1 quận/huyện 1 thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb615abb7d6c9432c90ab2"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3cabf47d63c05ee12dc"
+  },
+  "username": "01010101",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb616c13e20a93cddc066b"
+  },
+  "addedBy": {
+    "$oid": "61bb60e079690eb6a5b2378d"
+  },
+  "name": "cán bộ tổ dân phố/làng 5 xã/phường 2 quận/huyện 1 thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb616c13e20a93cddc0669"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3cabf47d63c05ee12dc"
+  },
+  "username": "01010205",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb616c13e20a93cddc065f"
+  },
+  "addedBy": {
+    "$oid": "61bb60e079690eb6a5b2378d"
+  },
+  "name": "cán bộ tổ dân phố/làng 1 xã/phường 2 quận/huyện 1 thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb616c13e20a93cddc065d"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3cabf47d63c05ee12dc"
+  },
+  "username": "01010201",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb616c13e20a93cddc0662"
+  },
+  "addedBy": {
+    "$oid": "61bb60e079690eb6a5b2378d"
+  },
+  "name": "cán bộ tổ dân phố/làng 2 xã/phường 2 quận/huyện 1 thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb616c13e20a93cddc0660"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3cabf47d63c05ee12dc"
+  },
+  "username": "01010202",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb616c13e20a93cddc0668"
+  },
+  "addedBy": {
+    "$oid": "61bb60e079690eb6a5b2378d"
+  },
+  "name": "cán bộ tổ dân phố/làng 4 xã/phường 2 quận/huyện 1 thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb616c13e20a93cddc0666"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3cabf47d63c05ee12dc"
+  },
+  "username": "01010204",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bb616c13e20a93cddc0665"
+  },
+  "addedBy": {
+    "$oid": "61bb60e079690eb6a5b2378d"
+  },
+  "name": "cán bộ tổ dân phố/làng 3 xã/phường 2 quận/huyện 1 thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bb616c13e20a93cddc0663"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3cabf47d63c05ee12dc"
+  },
+  "username": "01010203",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bc3bf634702e34327fed8a"
+  },
+  "addedBy": {
+    "$oid": "61bb60e079690eb6a5b2378a"
+  },
+  "name": "cán bộ tổ dân phố/làng 6 xã/phường 1 quận/huyện 1 thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bc3bf634702e34327fed88"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3dcbf47d63c05ee12dd"
+  },
+  "username": "01010106",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bca29fad3e1c3665894b45"
+  },
+  "addedBy": {
+    "$oid": "61bb60e079690eb6a5b23790"
+  },
+  "name": "cán bộ tổ dân phố/làng 1 xã/phường 3 quận/huyện 1 thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bca29fad3e1c3665894b43"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3dcbf47d63c05ee12dd"
+  },
+  "username": "01010301",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bca2b9ad3e1c3665894b53"
+  },
+  "addedBy": {
+    "$oid": "61bb60e079690eb6a5b23790"
+  },
+  "name": "cán bộ tổ dân phố/làng 2 xã/phường 3 quận/huyện 1 thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bca2b9ad3e1c3665894b51"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3dcbf47d63c05ee12dd"
+  },
+  "username": "01010302",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bca2ccad3e1c3665894b5c"
+  },
+  "addedBy": {
+    "$oid": "61bb60e079690eb6a5b23790"
+  },
+  "name": "cán bộ tổ dân phố/làng 3 xã/phường 3 quận/huyện 1 thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61bca2ccad3e1c3665894b5a"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3dcbf47d63c05ee12dd"
+  },
+  "username": "01010303",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bf41a7487134d774315374"
+  },
+  "addedBy": {
+    "$oid": "61bb5bad9e7815bcbf9cc9d8"
+  },
+  "name": "cán bộ xã/phường 1 quận/huyện 1 thành phố  Bà rịa – Vũng tàu",
+  "idManagedScopeRef": {
+    "$oid": "61bf41a7487134d774315372"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3cabf47d63c05ee12dc"
+  },
+  "username": "020101",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bf42c4487134d77431538d"
+  },
+  "addedBy": {
+    "$oid": "61bf41a7487134d774315374"
+  },
+  "name": "cán bộ tổ dân phố/làng 1 xã/phường 1 quận/huyện 1 thành phốBà rịa – Vũng tàu",
+  "idManagedScopeRef": {
+    "$oid": "61bf42c4487134d77431538b"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3dcbf47d63c05ee12dd"
+  },
+  "username": "02010101",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c3d278bbe4d02d638fd733"
+  },
+  "addedBy": {
+    "$oid": "61bb60e079690eb6a5b2378d"
+  },
+  "name": "cán bộ làng 9 xã 2  huyện 1 thành phố An Giang",
+  "idManagedScopeRef": {
+    "$oid": "61c3d278bbe4d02d638fd731"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3dcbf47d63c05ee12dd"
+  },
+  "username": "01010209",
+  "password": "$2b$10$FyvGAy0Xw6yXc3mZ9WTj3etLXsJd5yWJAHTLWG0k7Iprb/rM4bbgi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c66fab6a98e712b784933d"
+  },
+  "addedBy": {
+    "$oid": "61bb60e079690eb6a5b2378d"
+  },
+  "name": "cán bộ tổ dân phố/làng 20",
+  "idManagedScopeRef": {
+    "$oid": "61c66fab6a98e712b784933b"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3dcbf47d63c05ee12dd"
+  },
+  "username": "01010220",
+  "password": "$2b$10$YKLz9nyEhCGL.a8GobpOSObHchXRhEBgmfIflHDErM8l004KiEc3m",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c676696a98e712b78493e0"
+  },
+  "addedBy": {
+    "$oid": "61bb60e079690eb6a5b2378d"
+  },
+  "name": "cán bộ quận 21",
+  "idManagedScopeRef": {
+    "$oid": "61c676696a98e712b78493de"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3dcbf47d63c05ee12dd"
+  },
+  "username": "01010221",
+  "password": "$2b$10$1GMuYRLeP7CZVxZkFZVDmu1.ENMizZ0AsoHmCpbOMQfHj9nc809f2",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c677126a98e712b78493f5"
+  },
+  "addedBy": {
+    "$oid": "61bb60e079690eb6a5b2378d"
+  },
+  "name": "cán bộ phuong qun 6",
+  "idManagedScopeRef": {
+    "$oid": "61c677116a98e712b78493f3"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3dcbf47d63c05ee12dd"
+  },
+  "username": "01010224",
+  "password": "$2b$10$wtSDu0BgurMJUui6vxAnv.OFDTpCfTnpC0lNIRRZvQjws9UKxTLmC",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c677676a98e712b784940e"
+  },
+  "addedBy": {
+    "$oid": "61bb60e079690eb6a5b2378d"
+  },
+  "name": "cán bộ phuong 6 quan 5",
+  "idManagedScopeRef": {
+    "$oid": "61c677676a98e712b784940c"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3dcbf47d63c05ee12dd"
+  },
+  "username": "01010235",
+  "password": "$2b$10$D5aQ1n.JePc3CmoTxyCdTePOH4yvB6jU5tOZ/3gwEYJh0hPr2Z7QW",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c67a746a98e712b7849480"
+  },
+  "addedBy": {
+    "$oid": "61bb60e079690eb6a5b2378d"
+  },
+  "name": "cán bộ qdwqdq",
+  "idManagedScopeRef": {
+    "$oid": "61c67a746a98e712b784947e"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3dcbf47d63c05ee12dd"
+  },
+  "username": "01010206",
+  "password": "$2b$10$CF4NNQnk2AXCLnNUDrXSCuV6rEWVQ6eMGHoWOv6mtr.ZYQcElzQOe",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c67d2f6a98e712b78494a1"
+  },
+  "addedBy": {
+    "$oid": "61bb60e079690eb6a5b2378d"
+  },
+  "name": "cán bộ phuong 1 quan 2",
+  "idManagedScopeRef": {
+    "$oid": "61c67d2f6a98e712b784949f"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3dcbf47d63c05ee12dd"
+  },
+  "username": "01010210",
+  "password": "$2b$10$Qu653dwxLIJPZLTSLZXsE.D2bi9oiPtvFJTvy9Hvk4NyHOkEr9EQm",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c67d516a98e712b78494b2"
+  },
+  "addedBy": {
+    "$oid": "61bb60e079690eb6a5b2378d"
+  },
+  "name": "cán bộ phuong 1 quan 4",
+  "idManagedScopeRef": {
+    "$oid": "61c67d516a98e712b78494b0"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3dcbf47d63c05ee12dd"
+  },
+  "username": "01010211",
+  "password": "$2b$10$aDqOiK.BG/ew8W3JpGBUpehAFvjWyGajglL2sAxVf2bD3ErXRsZ5y",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c681456a98e712b784950a"
+  },
+  "addedBy": {
+    "$oid": "61bb60e079690eb6a5b2378d"
+  },
+  "name": "cán bộ phuong2",
+  "idManagedScopeRef": {
+    "$oid": "61c681456a98e712b7849508"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3dcbf47d63c05ee12dd"
+  },
+  "username": "01010207",
+  "password": "$2b$10$KH9ZHI5ZcwmJDfFcWEPoReVXbS66gALUls7npLK1JeZVd.FNwDGGS",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c70c0d38f71f5c218a5fef"
+  },
+  "addedBy": {
+    "$oid": "61bb60e079690eb6a5b2378d"
+  },
+  "name": "cán bộ affnqofqwfwq",
+  "idManagedScopeRef": {
+    "$oid": "61c70c0d38f71f5c218a5fed"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3dcbf47d63c05ee12dd"
+  },
+  "username": "01010208",
+  "password": "$2b$10$TfFWb4f7d.fYOAtwTG5Hee9NkYefMPORwlAlF0IHM6qw94FTqw4OC",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c81994187ee0c85dda6c3a"
+  },
+  "addedBy": {
+    "$oid": "61ba16d85f6dc3ffd9d1d899"
+  },
+  "name": "cán bộ Tiền Giang",
+  "idManagedScopeRef": {
+    "$oid": "61c81994187ee0c85dda6c38"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "57",
+  "password": "$2b$10$rpqpru6A.pFBJt/dh7KZquPqHdFrOmYs.MryWY3rV43ZhW0W4tL.6",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c819eaf736cd12f2220523"
+  },
+  "addedBy": {
+    "$oid": "61ba16d85f6dc3ffd9d1d899"
+  },
+  "name": "cán bộ Vĩnh Phúc",
+  "idManagedScopeRef": {
+    "$oid": "61c819eaf736cd12f2220521"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "62",
+  "password": "$2b$10$UYNg8XDJIDjw9OwghF1GBe1Zoq9q8noTH2GQhmpEpE2Y4wdww58cu",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c819fdf736cd12f2220531"
+  },
+  "addedBy": {
+    "$oid": "61ba16d85f6dc3ffd9d1d899"
+  },
+  "name": "cán bộ Yên Bái",
+  "idManagedScopeRef": {
+    "$oid": "61c819fdf736cd12f222052f"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3a8bf47d63c05ee12da"
+  },
+  "username": "63",
+  "password": "$2b$10$dqWZRvG7Iyboh38XFwdArOW9I86ATVAYBT72PA3ah81gWtEAR7KYi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c81bf8e89541179534bab1"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95ff"
+  },
+  "name": "cán bộ Ba Đình",
+  "idManagedScopeRef": {
+    "$oid": "61c81bf8e89541179534baaf"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "2401",
+  "password": "$2b$10$Kjq7Z9XI5nRmanJmiwjIjuh/Lrgoq0FQp/3VvNY.v.WUEW3s0Mhf.",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c81c0ee89541179534baba"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95ff"
+  },
+  "name": "cán bộ Bắc Từ Liêm",
+  "idManagedScopeRef": {
+    "$oid": "61c81c0ee89541179534bab8"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "2402",
+  "password": "$2b$10$Y6DTx.CBttkl1mWEC2U1ueuwtTJ0XEeMArp.zTPQYFCHRUTFql1jK",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c81c28e89541179534bac8"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95ff"
+  },
+  "name": "cán bộ Cầu Giấy",
+  "idManagedScopeRef": {
+    "$oid": "61c81c28e89541179534bac6"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "2403",
+  "password": "$2b$10$ca0p520g4k7PtQfW/pFCFOqFMxevZ5M2qP48HMS6LCMolYDM5u7Fi",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c81c3ee89541179534bad6"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95ff"
+  },
+  "name": "cán bộ Đống Đa",
+  "idManagedScopeRef": {
+    "$oid": "61c81c3ee89541179534bad4"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "2404",
+  "password": "$2b$10$m8Yex1tJGI4UXqniSnSo2ekaaig4dOi/Y8IBicoSoFObeGO4sara.",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c81c53e89541179534badf"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95ff"
+  },
+  "name": "cán bộ Hà Đông",
+  "idManagedScopeRef": {
+    "$oid": "61c81c53e89541179534badd"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "2405",
+  "password": "$2b$10$82AePhkF9CgH4qGNZJ0wG.oEfbURbNkHXYHyR5hNegbpmmvtlxYQO",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c81c69e89541179534bae8"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95ff"
+  },
+  "name": "cán bộ Hai Bà Trưng",
+  "idManagedScopeRef": {
+    "$oid": "61c81c69e89541179534bae6"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "2406",
+  "password": "$2b$10$.LBV0lFu6CmBA8dNInn19uC24nnIMXo.VWUvGrl0.tbFJS2EW9MMe",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c81c7ce89541179534baf1"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95ff"
+  },
+  "name": "cán bộ Hoàn Kiếm",
+  "idManagedScopeRef": {
+    "$oid": "61c81c7be89541179534baef"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "2407",
+  "password": "$2b$10$.sYK93rVI1leF/ra7LGdve4EeAfZnSSR/MxVGFEkNK1vT5alUU2gK",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c81c91e89541179534bafa"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95ff"
+  },
+  "name": "cán bộ Hoàng Mai",
+  "idManagedScopeRef": {
+    "$oid": "61c81c91e89541179534baf8"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "2408",
+  "password": "$2b$10$J80Lp/jeW1RvcTg7Ay2Q5uhWlqyAKlbdfAiTZMeHVClcUDDcv4W22",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c81ca2e89541179534bb03"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95ff"
+  },
+  "name": "cán bộ Long Biên",
+  "idManagedScopeRef": {
+    "$oid": "61c81ca2e89541179534bb01"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "2409",
+  "password": "$2b$10$LueyRuezKkdJNwT6eD737Obva3HqyeB2mzwjLwxLqied.7rhARbw6",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c81cb3e89541179534bb0c"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95ff"
+  },
+  "name": "cán bộ Nam Từ Liêm",
+  "idManagedScopeRef": {
+    "$oid": "61c81cb2e89541179534bb0a"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "2410",
+  "password": "$2b$10$q0XA7YBiRBFYiXd.fRzBo.TtNO6EUF/MUA3ygUV3fvav91Ng4r0he",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c81cc3e89541179534bb15"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95ff"
+  },
+  "name": "cán bộ Tây Hồ",
+  "idManagedScopeRef": {
+    "$oid": "61c81cc3e89541179534bb13"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "2411",
+  "password": "$2b$10$9YZWPWkuvLVxhFi1mN64GekiAkNWvChQkIG53g7Q9meTTiQhiHFim",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c81d05e89541179534bb1e"
+  },
+  "addedBy": {
+    "$oid": "61bb50799075012db9fc95ff"
+  },
+  "name": "cán bộ  Thanh Xuân",
+  "idManagedScopeRef": {
+    "$oid": "61c81d05e89541179534bb1c"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3b8bf47d63c05ee12db"
+  },
+  "username": "2412",
+  "password": "$2b$10$k/gwJYwTKIE3QfxZqJDnZOehooIBCOOtg2RFk0Df/hNZYKlCiTtB.",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c83136419d0e18b7915790"
+  },
+  "addedBy": {
+    "$oid": "61c81c28e89541179534bac8"
+  },
+  "name": "cán bộ  Nghĩa Đô",
+  "idManagedScopeRef": {
+    "$oid": "61c83136419d0e18b791578e"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3cabf47d63c05ee12dc"
+  },
+  "username": "240301",
+  "password": "$2b$10$CDLUV4AT4zlVtHMGE.iGTuNRBRcxWZl.g8Bar8UVn5p/ftkfFmXDK",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c8314d419d0e18b791579e"
+  },
+  "addedBy": {
+    "$oid": "61c81c28e89541179534bac8"
+  },
+  "name": "cán bộ Quan Hoa",
+  "idManagedScopeRef": {
+    "$oid": "61c8314d419d0e18b791579c"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3cabf47d63c05ee12dc"
+  },
+  "username": "240302",
+  "password": "$2b$10$EbmFo3SxOON33fGGH5v4R.JD60e77HloXgGjOyS/wiQEzGAmhv/WW",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c83167419d0e18b79157a7"
+  },
+  "addedBy": {
+    "$oid": "61c81c28e89541179534bac8"
+  },
+  "name": "cán bộ Dịch Vọng",
+  "idManagedScopeRef": {
+    "$oid": "61c83166419d0e18b79157a5"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3cabf47d63c05ee12dc"
+  },
+  "username": "240303",
+  "password": "$2b$10$liMDphLCZswrt/hoMpPnc.udBf34GrMhPW/837hZd8nfDpyQyG2Me",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c83182419d0e18b79157b0"
+  },
+  "addedBy": {
+    "$oid": "61c81c28e89541179534bac8"
+  },
+  "name": "cán bộ  Dịch Vọng Hậu",
+  "idManagedScopeRef": {
+    "$oid": "61c83182419d0e18b79157ae"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3cabf47d63c05ee12dc"
+  },
+  "username": "240304",
+  "password": "$2b$10$AWNkI2Ct1F/2gIDnVOGMueTQiBrRq/rtgLGs8Kd/.9Dkx7Qx65CU2",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c83196419d0e18b79157b9"
+  },
+  "addedBy": {
+    "$oid": "61c81c28e89541179534bac8"
+  },
+  "name": "cán bộ Trung Hòa",
+  "idManagedScopeRef": {
+    "$oid": "61c83196419d0e18b79157b7"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3cabf47d63c05ee12dc"
+  },
+  "username": "240305",
+  "password": "$2b$10$xOYktRu6Krc5oTXSquNqGOlk4kUDDybqwqKRFL8yPJnP37Si2KX8m",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c831aa419d0e18b79157c2"
+  },
+  "addedBy": {
+    "$oid": "61c81c28e89541179534bac8"
+  },
+  "name": "cán bộ Nghĩa Tân",
+  "idManagedScopeRef": {
+    "$oid": "61c831aa419d0e18b79157c0"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3cabf47d63c05ee12dc"
+  },
+  "username": "240306",
+  "password": "$2b$10$MdQ/MprgifFfT1AYRE9Fmu1H.9Kf9xFljCQhAZdFs4SiY1FSJmLc.",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c831bd419d0e18b79157d0"
+  },
+  "addedBy": {
+    "$oid": "61c81c28e89541179534bac8"
+  },
+  "name": "cán bộ Mai Dịch",
+  "idManagedScopeRef": {
+    "$oid": "61c831bd419d0e18b79157ce"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3cabf47d63c05ee12dc"
+  },
+  "username": "240307",
+  "password": "$2b$10$Ac6rhhrHFqxUnMEz2hzkd.W/ickuT4nx/MCXDF9JIXAZwEsyn7gZW",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c831d3419d0e18b79157de"
+  },
+  "addedBy": {
+    "$oid": "61c81c28e89541179534bac8"
+  },
+  "name": "cán bộ Yên Hòa",
+  "idManagedScopeRef": {
+    "$oid": "61c831d3419d0e18b79157dc"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3cabf47d63c05ee12dc"
+  },
+  "username": "240308",
+  "password": "$2b$10$WovsusYAu7wLraspVxMHG.L2I./QX3/X0lxKFVzUGa9v6gYp.8f4O",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c8362a4fa820ea35a26f54"
+  },
+  "addedBy": {
+    "$oid": "61c831d3419d0e18b79157de"
+  },
+  "name": "cán bộ Tổ dân phố 1 YH",
+  "idManagedScopeRef": {
+    "$oid": "61c8362a4fa820ea35a26f52"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3dcbf47d63c05ee12dd"
+  },
+  "username": "24030801",
+  "password": "$2b$10$okNkMrUkTu0MRtIS.btz1elF8iKvjkgPDQfJ/aWuKUh8fUZKzrvEC",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c8363c4fa820ea35a26f5d"
+  },
+  "addedBy": {
+    "$oid": "61c831d3419d0e18b79157de"
+  },
+  "name": "cán bộ Tổ dân phố 2 YH",
+  "idManagedScopeRef": {
+    "$oid": "61c8363c4fa820ea35a26f5b"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3dcbf47d63c05ee12dd"
+  },
+  "username": "24030802",
+  "password": "$2b$10$zutCrYm6c/rq3vFOi0gFgevFBgn4PNpPkRBaPI8abVf8PD0TsgaB6",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c836444fa820ea35a26f66"
+  },
+  "addedBy": {
+    "$oid": "61c831d3419d0e18b79157de"
+  },
+  "name": "cán bộ Tổ dân phố 3 YH",
+  "idManagedScopeRef": {
+    "$oid": "61c836444fa820ea35a26f64"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3dcbf47d63c05ee12dd"
+  },
+  "username": "24030803",
+  "password": "$2b$10$89A9AtCQDskJtVJMcVYLJu215GqozEHF/8EsjWVUOJ22gA4BGFAh2",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c836a54fa820ea35a26f74"
+  },
+  "addedBy": {
+    "$oid": "61c831bd419d0e18b79157d0"
+  },
+  "name": "cán bộ Tổ dân phố 1 MD",
+  "idManagedScopeRef": {
+    "$oid": "61c836a54fa820ea35a26f72"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3dcbf47d63c05ee12dd"
+  },
+  "username": "24030701",
+  "password": "$2b$10$fYsVfEfio5zEyJl9NLr0FeiORx/ahrJyXgzNNt5OPHeOWOkt6HUx2",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c836b04fa820ea35a26f7d"
+  },
+  "addedBy": {
+    "$oid": "61c831bd419d0e18b79157d0"
+  },
+  "name": "cán bộ Tổ dân phố 2 MD",
+  "idManagedScopeRef": {
+    "$oid": "61c836af4fa820ea35a26f7b"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3dcbf47d63c05ee12dd"
+  },
+  "username": "24030702",
+  "password": "$2b$10$7RvG9qZnp49d8jCBlauvOeGiJPNllDOrLUR8ZcZhIZvaz0U2h0NS6",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c836b74fa820ea35a26f86"
+  },
+  "addedBy": {
+    "$oid": "61c831bd419d0e18b79157d0"
+  },
+  "name": "cán bộ Tổ dân phố 3 MD",
+  "idManagedScopeRef": {
+    "$oid": "61c836b74fa820ea35a26f84"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3dcbf47d63c05ee12dd"
+  },
+  "username": "24030703",
+  "password": "$2b$10$OHUoHC/v1jbwQN3pyjn64uXB7.zsLzurYrLvxQtrz/EvHiW5ScIpO",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c836be4fa820ea35a26f8f"
+  },
+  "addedBy": {
+    "$oid": "61c831bd419d0e18b79157d0"
+  },
+  "name": "cán bộ Tổ dân phố 4 MD",
+  "idManagedScopeRef": {
+    "$oid": "61c836be4fa820ea35a26f8d"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3dcbf47d63c05ee12dd"
+  },
+  "username": "24030704",
+  "password": "$2b$10$hs8XgFDaEXY/oPMU0GHdEeAVdy8Den8jK0f44FSlNDibzwK3MK4k.",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c836e64fa820ea35a26fa5"
+  },
+  "addedBy": {
+    "$oid": "61c831bd419d0e18b79157d0"
+  },
+  "name": "cán bộ Tổ dân phố 5 MD",
+  "idManagedScopeRef": {
+    "$oid": "61c836e54fa820ea35a26fa3"
+  },
+  "idRoleRef": {
+    "$oid": "61b5e3dcbf47d63c05ee12dd"
+  },
+  "username": "24030705",
+  "password": "$2b$10$XatNzSOE28tHYC.k7cSiXOgWBp2EMK/TY7S9CjKEP47OB0w6NAWqa",
+  "completed": false,
+  "declarable": true,
+  "__v": 0
+}]
